@@ -51,7 +51,8 @@ switch ($cmd) {
 		$pinfo = pathinfo($f);
 		$xml = file_get_contents($f);
 		$sxml_resumos = new SimpleXMLElement($xml);
-		print "\n-- $f --".$sxml_resumos->Resumo[0]->Sigla;
+		print "\n-- {$pinfo['basename']}: "
+		   .$sxml_resumos->Resumo[0]->Sigla ." .. ". $sxml_resumos->Resumo[$sxml_resumos->count() -1]->Sigla;
 		$dom = dom_import_simplexml($sxml_resumos);
 		$enc = $dom->ownerDocument->encoding;
 		if ($enc=='iso-8859-1') {
@@ -91,12 +92,29 @@ switch ($cmd) {
         break; // etapa01a
 
     case "etapa01b":
-        echo "$cmd - e construcao";
-		// bom $xml = preg_replace('~&lt;(/)?(i|sub|sup|b|strong)&gt;~s','<$1i>',$xml);
-		// bom $xml = preg_replace('/&amp;#(\d+);/s','&#$1;',$xml);
+	echo "\n -- etapa01b - Convertendo residuos XHTML do CDATA -- ";
+	foreach( glob("$dir_recebido/*.xml") as $f0 ) {
+		$f=realpath($f0);
+		$pinfo = pathinfo($f);
+		$xml = file_get_contents($f);
+		$sxml_resumos = new SimpleXMLElement($xml);
+		print "\n-- {$pinfo['basename']}: "
+		   .$sxml_resumos->Resumo[0]->Sigla ." .. ". $sxml_resumos->Resumo[$sxml_resumos->count() -1]->Sigla;
+		$dom = dom_import_simplexml($sxml_resumos);
+		$enc = $dom->ownerDocument->encoding;
+		if ($enc!='utf-8') die("\nERRO: UTF8 esperado nos XMLs.");
+		
+		$xml = preg_replace('~&lt;(/)?(i|sub|sup|b|strong)&gt;~s','<$1i>',$xml);
+		$xml = preg_replace('/&amp;#(\d+);/s','&#$1;',$xml);
+		file_put_contents( "$dir_recebido/{$pinfo['basename']}", $xml );
+		//$sxml_resumos = new SimpleXMLElement($xml); die(PHP_EOL.$sxml_resumos->asXML());
 		// já poderia fazer mb_chr ( int $cp [, string $encoding ] ) e conferir tabela de símbolos.
 		// mb_convert_encoding($profile, 'HTML-ENTITIES', 'UTF-8'));
-        break;
+	} // all files
+
+        break; // etapa01b
+
+
     default:
 	print_r($io_options_cmd);
         echo "$cmd INVALIDO";
