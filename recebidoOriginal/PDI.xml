@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Resumos xmlns:xsd="https://www.w3.org/2001/XMLSchema" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance">
+	<Resumo>
+		<Sigla>PDI001</Sigla>
+		<Titulo><![CDATA[Efeito anticárie de enxaguatório bucal livre de álcool contendo extrato da casca da romã, fosfato e flúor sobre a desmineralização do esmalte]]></Titulo>
+		<Autores> Fernandes GL*, Berretta AA, Danelon M, Delbem ACB, Emerenciano NG, Buszinski AFM, Vieira APM, Barbosa DB</Autores>
+		<Universidade>Materiais Odontológicos e Prótese - UNIVERSIDADE ESTADUAL PAULISTA - ARAÇATUBA.</Universidade>
+		<Email>fernandesgabriela@hotmail.com</Email>
+		<Resumo><![CDATA[O estudo objetivou o desenvolvimento de formulações líquidas para enxaguatório bucal livre de álcool contendo extrato da casca da romã (ECR), trimetafosfato de sódio (TMP) e fluoreto (F) sobre a desmineralização do esmalte dentário. Blocos de esmalte bovino (4 mm x 4 mm, n = 12/grupo) foram selecionados pela dureza de superície inicial (SHi) e a seguir alocados em sete grupos de soluções: Sem ECR/TMP/F (Placebo); 100 ppm F (100F); 225 ppm F (225F); 3%ECR+0,2%TMP+100F, 3%ECR+0,3%TMP+225F; 0,2%TMP+100F; 0,3%TMP+225F. Os blocos foram tratados 2x/dia com as respectivas soluções e submetidos a cinco ciclos de pH (soluções desmineralizante/remineralizante) a 37°C. A seguir, determinou-se a dureza de superfície final (SHf) para o cálculo da porcentagem de perda de dureza de superfície (%SH) e fluoreto (F) no esmalte. Os dados foram submetidos à ANOVA (1 critério), seguido pelo teste Student-Newman-Keul's (p<0,001). As formulações para enxaguatório contendo 3%ECR+0,3%TMP+225F e 0,3%TMP+225F reduziram em 30,5% e 11% respectivamente a %SH em relação ao tratamento com 225F. Valores similares e superiores de F foram observados para os grupos 225F, 3%ECR+0,3%TMP+225F e 0,3%TMP+225F quando comparado aos demais (p< 0,001).]]></Resumo>
+		<Conclusao><![CDATA[Conclui-se que a adição de TMP/ECR em solução fluoretada com 225 ppm F, reduziu consideravelmente a desmineralização do esmalte em relação a solução contendo 225 ppm F, criando perspectivas promissoras para o desenvolvimento de um novo produto anticárie.]]></Conclusao>
+		<Apoio>Apoio: CAPES</Apoio>
+	</Resumo>
+	<Resumo>
+		<Sigla>PDI002</Sigla>
+		<Titulo><![CDATA[Desenvolvimento de um novo Implante de Titânio Nanotexturizado]]></Titulo>
+		<Autores> Salatti DB*, Escada ALA, Teixeira ML, Alves Claro APR, Pelegrine AA</Autores>
+		<Universidade>Pós Graduação - FACULDADE DE ODONTOLOGIA SÃO LEOPOLDO MANDIC.</Universidade>
+		<Email>deborasalatti@hotmail.com</Email>
+		<Resumo><![CDATA[Este estudo avaliou uma nova superfície com nanotubos de dióxido de titânio (nanoTiO2). Implantes de titânio foram divididos em dois grupos: superfície com nanoTiO2 (Grupo Teste-GT) ou condicionada por ácido (Grupo Controle-GC). A análise de superfície foi realizada por microscopia eletrônica e teste de molhabilidade. 16 ratos foram submetidos a 2 procedimentos de instalação de implantes. Em cada rato, um tipo de implante foi colocado em cada tíbia. Os animais foram sacrificados após 2 (T1) ou 6 semanas (T2) e as tíbias foram processadas para avaliação do contato osso implante (BIC) e da ocupação óssea entre as espiras (BAFO). A análise de superfície mostrou uma topografia não homogênea em GC, enquanto o GT apresentou superfície com nanoTiO2. O GT apresentou maior molhabilidade (â de contato=5,1+0,7o) do que o GC (â de contato=75,5+4,6o). Na análise histomorfométrica, em T1, os grupos GC e GT apresentaram percentagens de BIC de 41,3+15,2% e 63,1+8,7%, e para BAFO, 28,7+13,7% e 54,8+7,5%, respectivamente (p<0,05). Em T2, GC e GT apresentaram percentagens de BIC de 51,2+11,4% e 64,8+7,4%, e para BAFO, 36,4+10,3% e 57,9+9,3%, respectivamente (p<0,05).]]></Resumo>
+		<Conclusao><![CDATA[Os achados do presente estudo confirmaram que a superfície nanotexturizada exibiu molhabilidade superior, melhorou a formação óssea peri-implantar e acelerou a osseointegração.]]></Conclusao>
+		<Apoio></Apoio>
+	</Resumo>
+</Resumos>
