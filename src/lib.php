@@ -39,6 +39,7 @@ $SECAO         = array( // na ordem
 	'FC'=> 'Fórum Científico',
 	'PI'=> 'Painel Iniciante (prêmio Miyaki Issao)',	
 	'PN'=> 'Painel Aspirante e Efetivo',
+	'RS'=> 'Painel Revisão Sistemática',
 );
 
 $FILTRO= [];
@@ -138,144 +139,7 @@ $ctrl_idnames     = array(); // cria e controla IDs
 //////////////
 
 
-/**
- *  CARGA DE IDs e CONTEUDO-EXTRA:	
- */
-$csvFiles_rowByKey=[
-'programacaoGrupoDia'=>['entregas/conteudoExtra/programacaoGrupoDia.csv', 0,[]], //key=ID
-'local'=>  ['entregas/CSV1-3/local.csv', 0,[]], //key=LOCAL
-'autores'=>['entregas/CSV1-3/indiceAutores.csv',0,[]]
-];
-foreach($csvFiles_rowByKey as $name=>$rec) {
-	$f = $rec[0];
-	$key = $rec[1];
-	if ( csv_get($f,'',function ($tmp) use (&$csvFiles_rowByKey,$name,$key) {
-		if ($name=='autores' && $tmp[3]=mb_strtoupper($tmp[3]))
-			$tmp[3] = mb_ptbrPersonName($tmp[3]);
-		$csvFiles_rowByKey[$name][2][$tmp[$key]] = $tmp; // repete key em tmp
-	}) )
-		$csvFiles_rowByKey[$name][2]['CSV_HEAD'] = $CSV_HEAD; // transforma tudo em hash
-	else 
-		die("\n ERRO AO CARREGAR '$name'\n");
-}
-$idLoc = array_column( $csvFiles_rowByKey['local'][2], 1,0);
-$valiDia = array_flip( array_column( $csvFiles_rowByKey['programacaoGrupoDia'][2], 3,1) );
 
-/**
- *  CARGA DOS DESCRITORES DE CADA RESUMO:	
- */
-if (csv_get(
-	$fileDescr
-	,'COD_CHAVE'
-	,function ($tmp) use (&$DESCRITORES,&$DESCR_byResumo,$CSV_SEPaux) {
-    	$resumos = preg_split($CSV_SEPaux, $tmp[2]);
-    	$DESCRITORES[$tmp[1]] = $resumos;
-    	foreach ($resumos as $rid) {
-    		if (isset($DESCR_byResumo[$rid]))
-    			$DESCR_byResumo[$rid][] = $tmp[1];
-    		else
-    			$DESCR_byResumo[$rid] = array($tmp[1]);
-    	}
-	} // func
-)) {
-    foreach ($DESCR_byResumo as $rid => $lst) { // ordena itens
-    	$lst = array_unique($lst);
-    	usort($lst,'strcoll');
-    	$DESCR_byResumo[$rid] = $lst; // join('; ',$lst);
-    }
-}
-
-
-/**
- * CARGA DE LOCAL E HORA DE CADA RESUMO:	
- */
-if (csv_get(
-	$fileLocalHora
-	,'SIGLA'
-	,function ($tmp) use (&$LocHora_byResumo,&$Resumos_byDia,&$dayLocais_bySec,&$idLoc,&$valiDia) {
-    	//  0=rid; 1=dia;     2=intervalo;    3=local		
-    	//Exemplo:
-    	// AO0002,9/4/2015,8:00 - 11:30 h,Sala Amoreira I
-    	// PR0001;2014-09-03;8:30 às 12:00 h;Sala Novara – 10º andar
-
-    	$rid = $tmp[0]; // 2015 requer padrã de entrada;  preg_replace('/0(\d\d\d)/','$1',$tmp[0],1); // remove 0s em excesso    	
-    	$hini = $hfim = $hini2 = $hfim2 ='';
-    	if (preg_match('#^\s*([\d:]+)[^\d:]+([\d:]+)[\shs]*/\s*([\d:]+)[^\d:]+([\d:]+)[\shs]*$#su', $tmp[2], $m)) {
-			// 9:00 – 12:00 h / 13:30 - 17:30 (caso exótico!)
-    		list($hini,$hfim,$hini2,$hfim2) = array($m[1],$m[2],$m[3],$m[4]);
-			$hini = "$hini;$hini2";
-			$hfim = "$hfim;$hfim2";
-    	} elseif (preg_match('/^\s*([\d:]+)[^\d:]+([\d:]+)[ hs]*$/su', $tmp[2], $m))
-    		list($hini,$hfim) = array($m[1],$m[2]);  // caso usual
-
-		$local = localValido($tmp[3]);
-    	if (!$local)
-    		die("\n ERRO 232 no resumo $rid: $fileLocalHora com local desconhecido, '$local'.\n");
-
-		list($dayISO,$dayOrig)=dayFormat($tmp[1]);
-		if (!isset($valiDia[$dayISO]))
-    		die("\n ERRO 233 no resumo $rid: $dayISO invalida.\n");
-
-    	$LocHora_byResumo[$rid] = array($dayISO,$hini,$hfim,$local); // dia, hora-inicial, final, local
-    	if (!isset($Resumos_byDia[$dayISO]))
-    		$Resumos_byDia[$dayISO]=array();
-    	$Resumos_byDia[$dayISO][] = $rid;
-
-    	$sec = xsl_splitSecao($rid,1);
-    	$daysec = "$dayISO#$sec";
-    	if (!isset($dayLocais_bySec[$daysec]))
-    		$dayLocais_bySec[$daysec]=array();
-    	$dayLocais_bySec[$daysec][$local] = 1;
-	} // func
-	,2
-	,TRUE
-)) {
-    foreach($dayLocais_bySec as $daysec=>$a)
-    	$dayLocais_bySec[$daysec] = join('; ',array_keys($a));
-}
-
-/**
- *  CARGA DOS DESCRITORES DE CADA RESUMO:	
- */
-$instrucoes_autores = [];
-$PNgrupo = [];
-if (!csv_get(
-	"$io_baseDir/../$pastaDados/conteudoExtra/InstrucoesAutores/instrucoes_autores.csv"
-	,'Data'
-	,function ($tmp) use (&$instrucoes_autores, &$PNgrupo) {
-		// Data,hora,Atividade,Local,sessao,area,res_ini,res_fim,sec
-		list($diaIso,$dia) = dayFormat($tmp[0],'2015'); // PERIGO FORÇANDO DATA
-		$idr1 = $tmp[6]; // primeiro resumo do range
-		$hora0 = substr($tmp[1],0,5);
-		$horario = $tmp[1];
-    	$instrucoes_autores["$idr1 $diaIso $hora0"] = [
-    		'dia'=>$dia, 'horario'=>$horario, 'range'=>"$tmp[6] - $tmp[7]", 'local'=>$tmp[3],
-    		'r0'=>$tmp[6], 'r1'=>$tmp[7], 
-    	];
-    	if (preg_match('/\sgrupos?/si', $tmp[2])) { // REUNIOES DE GRUPO
-    		$sec = substr($tmp[6],0,2);
-    		if ($sec=='PN') {
-	    		$r1 = (int) substr($tmp[6],2);
-	    		$r2 = (int) substr($tmp[7],2);
-				list($idloc,$locname) = localValido($tmp[3],2);
-				list($h1,$h2) = preg_split('/[\s\-]+/s', $horario);
-	    		for($i=$r1; $i<=$r2; $i++) {// scan all resumos
-					$PNgrupo[sprintf("PN%04d",$i)] = [
-						'dia'=>$dia,     'horario'=>$horario, 'h1'=>$h1, 'h2'=>$h2,
-						'idloc'=>$idloc, 'local'=>$locname 
-					];
-					//print " - ".sprintf("PN%04d",$i);
-				}
-    		}
-	    	$instrucoes_autores["$idr1 grupo"] = [
-	    		'dia'=>$dia, 'horario'=>$horario, 'range'=>"$tmp[6] - $tmp[7]", 'local'=>$tmp[3],
-	    		'r0'=>$tmp[6], 'r1'=>$tmp[7], 
-	    	];    		
-    	}
-	} // func
-)) {
-   die("\nERRO 34341\n");
-}
 
 
 /**
@@ -291,6 +155,8 @@ list($io_options,$io_usage,$io_options_cmd,$io_params) = getopt_FULLCONFIG(
 
 	    "l|local"=>     'shows all local ids', // command??
 
+	    "e|etapa:num"=>     'seletor de etapa',
+
 	    "c|convCsv*"=>  'converts semi-comma to real comma-CSV',
 	    "t|tpl1*"=>   	'converts CSV to XML',
 	    "s|xsltFile:file"=> 'use a XSLT file with tpl1',
@@ -302,7 +168,7 @@ list($io_options,$io_usage,$io_options_cmd,$io_params) = getopt_FULLCONFIG(
 
 	    "o|out:file"=>		'output file (default STDOUT)',
 	    "f|in:file_dir"=> 	'input file or directory (default file STDIN)',
-	    "e|entnum"=>    	'outputs special characters as numeric entity',
+	    //"e|entnum"=>    	'outputs special characters as numeric entity',
 	    "u|utf8"=>    		'check and convert input to UTF-8 encode',
 	    "k|breaklines"=>  	'(finalHtml) outputs without default filter of breaking lines',
 	    "n|normaliza"=>  	'(finalHtml) outputs with units normalization',

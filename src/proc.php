@@ -6,10 +6,9 @@
  *  $ php src/proc.php -x etapa01a
  */
 
-include(__DIR__."lib.php");
-$dir_recebido = "$io_baseDir/recebidoOriginal";
-$dir_entrega = "$io_baseDir/entrega";
+include(__DIR__."/lib.php");
 
+/* estranho depois rever como usar
 $cmd = array_pop($io_options_cmd); // ignora demais se houver mais de um
 if (!$cmd)
 	die( "\nERRO, SEM COMANDO\n" );
@@ -20,18 +19,29 @@ if ($cmd == 'help')
 	die($io_usage);
 elseif ($cmd=='version')
 	die(" lib.php version $LIBVERS\n");
+*/
 
-$debug =1 ;
-$isXML = ($cmd=='xml' || $cmd=='finalXml' || $cmd=='raw');
-$isRELAT = (substr($cmd,0,5)=='relat');
-$isMultiSec = isset($io_options['multisec']);
-$showDomWarnings = isset($io_options['warnings']);
+$cmd=$MODO='';
 
-//$file = 'php://stdin';
+if (isset($argv[0])) {
+	// TERMINAL:
+	array_shift($argv);
+	for($i=0; $i<$argc; $i++) if (isset($argv[$i]) && substr($argv[$i],0,1)=='-') {
+		$MODO = strtolower( substr($argv[$i],1) );
+		array_splice($argv, $i, 1);
+		break;
+	}
+	if (empty($argv)) $cmd='';
+	else $cmd=$argv[0];
+} else echo "\nERRO: nao parece terminal";
+
+
+$dir_recebido = "$io_baseDir/recebidoOriginal";
+$dir_entrega = "$io_baseDir/entrega";
+$debug =1;
 $allNodes = [];
 $nodeNames = [];
 
-<?php
 switch ($cmd) {
     case "etapa01":
     case "etapa01a":
@@ -46,15 +56,15 @@ switch ($cmd) {
 		$enc = $dom->ownerDocument->encoding;
 		if ($enc=='iso-8859-1') {
 			$fupath = realpath("{$pinfo['dirname']}/../entregas/etc");
-			$fu = str_replace('.xml',".utf8.xml",$pinfo['basename']);
+			$fu = str_replace('.xml',".xml",$pinfo['basename']);
 			$dom2 = new DOMDocument();
 			$dom2->loadXML($xml);
 			$dom2->encoding = 'utf-8'; // convert document encoding to UTF8
             		$xml = $dom2->saveXML(); // return valid, utf8-encoded XML 
 			$sxml2 = simplexml_load_string($xml,'SimpleXMLElement', LIBXML_NOCDATA);
-			$f2 = "$fupath/$fu";
+			$f2 = "$dir_recebido/$fu";
 			$xml = $sxml2->asXML(); //  
-			file_put_contents( $f2,$xml);
+			file_put_contents( $f2, $xml );
 		}
 		$dit = new RecursiveIteratorIterator(
 			    new RecursiveDOMIterator($dom),
@@ -88,6 +98,7 @@ switch ($cmd) {
 		// mb_convert_encoding($profile, 'HTML-ENTITIES', 'UTF-8'));
         break;
     default:
+	print_r($io_options_cmd);
         echo "$cmd INVALIDO";
 }
 
