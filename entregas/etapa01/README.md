@@ -14,8 +14,9 @@ Nesta etapa apenas foram sanitizados os arquios XML originais (pasta [recebidoOr
 
 3. Conersão de texto-cru para XHTML: o texto CDATA para que se seja aceito como XML não pode ter confusão entre sinais `>`, `<`, ou `&` e tags XML. Nesta etapa foram reinterpretados os sinais e convertidos em tags quando consistentes. As entidades numéricas também foram convertidas em caracteres UTF-8. Todo o processo pode ser reproduzido rodando-se o script `proc.php etapa1b`.
 
-     3.1. Conversão em tag.
-     3.2. Acerto manual das tags desbalanceadas.
+     3.1. Conversão em tag. [*Commit* `8260d2b65a091d3c63d0027a51e7ebb28c0c8610`](https://github.com/ppKrauss/SBPqO-2019/commit/8260d2b65a091d3c63d0027a51e7ebb28c0c8610).
+
+     3.2. Acerto manual das tags desbalanceadas. [*Commit* `??`](https://github.com/ppKrauss/SBPqO-2019/commit/xxx).
 
 ### Etapa 01a
 Realizados os itens 2.1 e 2.2 descritos acima.
