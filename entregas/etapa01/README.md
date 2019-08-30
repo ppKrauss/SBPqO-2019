@@ -74,5 +74,151 @@ php src/proc.php etapa01b
 	-- TCC.xml: TCC001 .. TCC061
 ```
 
+###  Etapa 01c 
+
+Rodando `php src/proc.php -test etapa01c > relatorio01c.txt`. Resultados:
+
+```
+ -- etapa01c - Convertendo (e contando) entidades numéricas dos XMLs originais -- 
+	AO.xml: 
+		VERIFICAR: &#769; &#8203; &#257; &#119901;
+		TOTAL 189 entities.
+	COL.xml: 
+		TOTAL 6 entities.
+	FC.xml: 
+		TOTAL 13 entities.
+	HA.xml: 
+		TOTAL 19 entities.
+	JL.xml: 
+		TOTAL 8 entities.
+	PDI.xml: 
+		TOTAL 0 entities.
+	PE.xml: 
+		VERIFICAR: &#807; &#771; &#769;
+		TOTAL 11 entities.
+	PI.xml: 
+		VERIFICAR: &#771;  &#807; &#770; &#769; &#768; &#61617; &#8312; &#8315;
+			   &#8202; &#8203; &#64257; &#776; &#720; &#713; &#8725;
+		TOTAL 605 entities.
+	PN.xml: 
+		VERIFICAR: &#730; &#807;  &#771;  &#769; &#770; &#8722; &#646;  &#59154;
+			   &#768; &#8206; &#8201; &#351; &#312; &#8208; &#8203; &#257;
+			   &#8729; &#1178; &#411; &#8195; &#8202; &#8232; &#1455; &#713;
+			   &#333; &#894;
+		TOTAL 1430 entities.
+	PO.xml: 
+		TOTAL 2 entities.
+	RS.xml: 
+		VERIFICAR: &#8208; &#1008;
+		TOTAL 12 entities.
+	TCC.xml: 
+		VERIFICAR: &#807; &#769;
+		TOTAL 3 entities.
+```
+
+Depois das verificações manuais e inclusão dos diacrilicos na automação,
+rodando de fato (sem option teste) `php src/proc.php etapa01c > relatorio01c.txt`. Resultados:
+
+```
+ -- etapa01c - Convertendo (e contando) entidades numéricas dos XMLs originais -- 
+	AO.xml: 
+		TOTAL 183 entities.
+	COL.xml: 
+		TOTAL 6 entities.
+	FC.xml: 
+		TOTAL 13 entities.
+	HA.xml: 
+		TOTAL 19 entities.
+	JL.xml: 
+		TOTAL 8 entities.
+	PDI.xml: 
+		TOTAL 0 entities.
+	PE.xml: 
+		TOTAL 1 entities.
+	PI.xml: 
+		TOTAL 498 entities.
+	PN.xml: 
+		VERIFICAR: &#257; &#411; &#894;
+		TOTAL 1427 entities.
+	PO.xml: 
+		TOTAL 2 entities.
+	RS.xml: 
+		TOTAL 12 entities.
+	TCC.xml: 
+		TOTAL 3 entities.
+```
+
+Relatório de conversão e frequência dos caracteres especiais, para eventuais verificações e decisões sobre normalização:
+
+ chr(257)=ā *2
+ chr(312)=ĸ *1
+ chr(333)=ō *4
+ chr(351)=ş *1
+ chr(411)=ƛ *1
+ chr(414)=ƞ *2
+ chr(593)=ɑ *1
+ chr(646)=ʆ *1
+ chr(706)=˂ *12
+ chr(707)=˃ *5
+ chr(713)=ˉ *2
+ chr(720)=ː *1
+ chr(730)=˚ *4
+ chr(768)=̀ *13
+ chr(769)=́ *146
+ chr(770)=̂ *39
+ chr(771)=̃ *113
+ chr(776)=̈ *2
+ chr(807)=̧ *85
+ chr(894)=; *4
+ chr(916)=Δ *255
+ chr(917)=Ε *1
+ chr(922)=Κ *1
+ chr(937)=Ω *2
+ chr(945)=α *582
+ chr(946)=β *229
+ chr(947)=γ *12
+ chr(948)=δ *3
+ chr(949)=ε *1
+ chr(951)=η *2
+ chr(952)=θ *3
+ chr(954)=κ *8
+ chr(955)=λ *5
+ chr(956)=μ *203
+ chr(960)=π *1
+ chr(961)=ρ *14
+ chr(963)=σ *33
+ chr(964)=τ *6
+ chr(965)=υ *1
+ chr(967)=χ *2
+ chr(981)=ϕ *1
+ chr(1008)=ϰ *1
+ chr(1178)=Қ *2
+ chr(1455)=֯ *1
+ chr(8195)=  *1
+ chr(8201)=  *2
+ chr(8202)=  *2
+ chr(8203)=​ *20
+ chr(8206)=‎ *3
+ chr(8208)=‐ *11
+ chr(8232)=  *2
+ chr(8312)=⁸ *2
+ chr(8315)=⁻ *1
+ chr(8710)=∆ *78
+ chr(8722)=− *2
+ chr(8725)=∕ *1
+ chr(8729)=∙ *1
+ chr(8733)=∝ *3
+ chr(8773)=≅ *5
+ chr(8776)=≈ *4
+ chr(8800)=≠ *1
+ chr(8804)=≤ *173
+ chr(8805)=≥ *162
+ chr(9082)=⍺ *1
+ chr(9651)=△ *2
+ chr(59154)= *1
+ chr(61617)= *4
+ chr(64257)=ﬁ *1
+ chr(119901)=𝑝 *1
+ chr(120590)=𝜎 *6
 
 

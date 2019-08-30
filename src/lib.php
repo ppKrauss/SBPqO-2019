@@ -142,6 +142,7 @@ $ctrl_idnames     = array(); // cria e controla IDs
 
 
 
+
 /**
  * CARGA DE OPTIONS:	
  */
@@ -1437,6 +1438,36 @@ class RecursiveDOMIterator implements RecursiveIterator
     {
         return $this->_position < $this->_nodeList->length;
     }
+}
+
+/////
+
+function htmlTpl($recheio,$title="teste") {
+return '<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>'.$title.'</title>
+    <style>section.conclusao::before {content: "CONCLUSÃO: ";} section {padding-bottom:12pt;} </style>
+  </head>
+<body>'.PHP_EOL. $recheio .'
+</body>
+</html>
+';
+}
+
+
+/**
+ * Put array into a CSV file, a util tool.
+ */
+function fileCsv_put_array($fileIn,$dados,$SEP_IN='') {
+	global $CSV_SEP;
+	$SEP = $SEP_IN? $SEP_IN: $CSV_SEP;
+	$fp2 = fopen("$fileIn.csv", 'w');
+	foreach($dados as $r)
+		fputcsv($fp2, $r, $SEP);
+	fclose($fp2);
+	return 1;
 }
 
 ?>
