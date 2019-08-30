@@ -1,18 +1,18 @@
 ## Entrada da ETAPA 01 - Conversão inicial
 
-Nesta etapa apenas foram sanitizados os arquios XML originais (pasta [recebidoOriginal](../recebidoOriginal)) e convertidos para XML correto, em UTF-8 e com conteúdos em texto (não `CDATA`).
+Nesta etapa apenas foram sanitizados os arquivos XML originais (pasta [recebidoOriginal](../recebidoOriginal)) e convertidos para XML correto, em UTF-8 e com conteúdos em texto (não `CDATA`).
 
 ## Operações realizadas
 
-1. Sanitização: foi necessária apenas conversão de `&` em `&amp;` no arquio original `TCC.xml` (linha 81 em "CNPq 308162/2014-5 & CAPES"). <br/>Revisão manual (remoção do bug), [*commit* `b89a8d`](https://github.com/ppKrauss/SBPqO-2019/commit/b89a8d9050485e14b6f779ea4baeea83368e207b).
+1. Sanitização: foi necessária apenas conversão de `&` em `&amp;` no arquivo original `TCC.xml` (linha 81 em "CNPq 308162/2014-5 & CAPES"). <br/>Revisão manual (remoção do bug), [*commit* `b89a8d`](https://github.com/ppKrauss/SBPqO-2019/commit/b89a8d9050485e14b6f779ea4baeea83368e207b).
 
-2. Conversão de enconding: foi necessária uma etapa de conversão padrão do *XML enconding* original "iso-8859-1" para "UTF-8". Tecnicamente Tecnicamente a conversão fica mais simples se no mesmo processo os blocos `CDATA` forem expandidos para texto (e tratando eventuais tags HTML como texto).  Todo o processo pode ser reproduzido rodando-se o script `proc.php etapa1a`, conforme dump abaixo  que resultou no  [*commit* `38bb45`](https://github.com/ppKrauss/SBPqO-2019/commit/38bb45096ebcba986c5363bd77c449c262ecb5de).
+2. Conversão de *encoding*: foi necessária uma etapa de conversão padrão do *XML encoding* original "iso-8859-1" para "UTF-8". Tecnicamente Tecnicamente a conversão fica mais simples se no mesmo processo os blocos `CDATA` forem expandidos para texto (e tratando eventuais tags HTML como texto).  Todo o processo pode ser reproduzido rodando-se o script `proc.php etapa1a`, conforme dump abaixo  que resultou no  [*commit* `38bb45`](https://github.com/ppKrauss/SBPqO-2019/commit/38bb45096ebcba986c5363bd77c449c262ecb5de).
 
     2.1. Conversão "iso-8859-1" para "UTF-8"
 
     2.2. Expansão dos blocos `CDATA` conforme [padrão SimpleXML do PHP](https://www.php.net/manual/en/book.simplexml.php) e seu uso no script.
 
-3. Conersão de texto-cru para XHTML: o texto CDATA para que se seja aceito como XML não pode ter confusão entre sinais `>`, `<`, ou `&` e tags XML. Nesta etapa foram reinterpretados os sinais e convertidos em tags quando consistentes. As entidades numéricas também foram convertidas em caracteres UTF-8. Todo o processo pode ser reproduzido rodando-se o script `proc.php etapa1b`.
+3. Conversão de texto-cru para XHTML: o texto CDATA para que se seja aceito como XML não pode ter confusão entre sinais `>`, `<`, ou `&` e tags XML. Nesta etapa foram reinterpretados os sinais e convertidos em tags quando consistentes. As entidades numéricas também foram convertidas em caracteres UTF-8. Todo o processo pode ser reproduzido rodando-se o script `proc.php etapa1b`.
 
      3.1. Conversão em tag. [*Commit* `8260d2`](https://github.com/ppKrauss/SBPqO-2019/commit/8260d2b65a091d3c63d0027a51e7ebb28c0c8610).
 
@@ -24,7 +24,7 @@ Nesta etapa apenas foram sanitizados os arquios XML originais (pasta [recebidoOr
 Regras relativas a 
 * correção do  [bug03](https://github.com/ppKrauss/SBPqO-2019/issues/3) dos diacrílicos;
 * bugs relativos a "sujeiras de edição" dos autores (ex. uso do caracter 64257 "&#64257;" no lugar da sílaba "fi");
-* normalizações (por exemplo padronizando o uso do Delta "Δ" do alabeto grego ao invés de "∆" ou "△"); 
+* normalizações (por exemplo padronizando o uso do Delta "Δ" do alfabeto grego ao invés de "∆" ou "△"); 
 
 foram aplicadas automaticamente ou iterativamente com  [`src/proc.php`](https://github.com/ppKrauss/SBPqO-2019/blob/294027b677744f979d216efd5976115ef143c0c1/src/proc.php#L117). Abaixo um resumo extraído do código.
 
@@ -270,4 +270,5 @@ Relatório de conversão e frequência dos caracteres especiais, para eventuais 
  chr(119901)=𝑝 *1
  chr(120590)=𝜎 *6
 
+PS: pendente decidir se na normalização da entrega final (PDF) fica com "μ" grego (956) com  "µ"  ISO (203), visto que as unidades serão padronizadas.
 
