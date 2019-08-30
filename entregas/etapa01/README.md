@@ -18,7 +18,7 @@ Nesta etapa apenas foram sanitizados os arquios XML originais (pasta [recebidoOr
 
      3.2. Acerto manual das tags desbalanceadas. [*Commit* `8a02d4`](https://github.com/ppKrauss/SBPqO-2019/commit/8a02d4287da6cc057b5babffa0acd459767e44eb).
      
-     3.3. Correção do [bug03](https://github.com/ppKrauss/SBPqO-2019/issues/3) (não foi adotado UTF-8 canônico/NFC no XML original), e conversão das entidades numéricas em símbolos. Ver Etapa 01c,  [*commit* `294027`](https://github.com/ppKrauss/SBPqO-2019/commit/294027b677744f979d216efd5976115ef143c0c1).
+     3.3. Correção do [bug03](https://github.com/ppKrauss/SBPqO-2019/issues/3) (não foi adotado UTF-8 canônico/NFC no XML original), e conversão das entidades numéricas em símbolos. <br/>Ver Etapa 01c,  [*commit* `294027`](https://github.com/ppKrauss/SBPqO-2019/commit/294027b677744f979d216efd5976115ef143c0c1) e [*commit* `3c8a6a`](https://github.com/ppKrauss/SBPqO-2019/commit/3c8a6a8c995668f1b7efc81a4436b83ef6bc839b).
 
 ## Resumo das regras de conversão corretivas da Etapa 01c
 Regras relativas a 
