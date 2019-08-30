@@ -21,7 +21,12 @@ Nesta etapa apenas foram sanitizados os arquios XML originais (pasta [recebidoOr
      3.3. Correção do [bug03](https://github.com/ppKrauss/SBPqO-2019/issues/3) (não foi adotado UTF-8 canônico/NFC no XML original), e conversão das entidades numéricas em símbolos. Ver Etapa 01c,  [*commit* `294027`](https://github.com/ppKrauss/SBPqO-2019/commit/294027b677744f979d216efd5976115ef143c0c1).
 
 ## Resumo das regras de conversão corretivas da Etapa 01c
-As correções de bugs ([bug03]([bug03](https://github.com/ppKrauss/SBPqO-2019/issues/3) diacrílicos e bugs relativos a "sujeiras de edição" dos autores) e as normalizações (por exemplo uso do Delta  "Δ" do alabeto grego ao invés de "∆" ou "△") foram realizadas com base nas regras abaixo, extraídas de [`src/proc.php`](https://github.com/ppKrauss/SBPqO-2019/blob/294027b677744f979d216efd5976115ef143c0c1/src/proc.php#L117).
+Regras relativas a 
+* correção do  [bug03](https://github.com/ppKrauss/SBPqO-2019/issues/3) dos diacrílicos;
+* bugs relativos a "sujeiras de edição" dos autores (ex. uso do caracter 64257 "&#64257;" no lugar da sílaba "fi");
+* normalizações (por exemplo padronizando o uso do Delta "Δ" do alabeto grego ao invés de "∆" ou "△"); 
+
+foram aplicadas automaticamente ou iterativamente com  [`src/proc.php`](https://github.com/ppKrauss/SBPqO-2019/blob/294027b677744f979d216efd5976115ef143c0c1/src/proc.php#L117). Abaixo um resumo extraído do código.
 
 ```
 // diacrílicos para acentos do portugues vigente:
