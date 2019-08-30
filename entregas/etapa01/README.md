@@ -47,7 +47,7 @@ foram aplicadas automaticamente ou iterativamente com  [`src/proc.php`](https://
   // PS: numerais ISO e não-ISO (4 a 9) também devem ser convertidos em sup.
 // Transliteração dos especiais inválidos para equivalentes corretos:
 	'ƞ'=>'η', 'ɑ'=>'α', '∆' =>'Δ', '⍺'  =>'α', '𝜎'=>'σ', '△'=>'Δ', //  greek normalization
-	'∕'=>'÷', 'ː'=>':', 'ĸ'=>'κ', '‐'=>'-', 'ō'=>'õ', // etc. normalization
+	'∕'=>'÷', 'ː'=>':', 'ĸ'=>'κ', '‐'=>'-', 'ō'=>'õ', 'ā'=>'ã', 'ƛ'=>'λ',';'=>';', // etc. normalization
 	'˂'=>'&lt;', '˃'=>'&gt;', // expand to entity
 	'¹'=>"<sup>1</sup>", '²'=>"<sup>2</sup>", '³'=>"<sup>3</sup>", // ISO expand to tag
 	'𝑝'=>"<i>p</i>", '⁴'=>"<sup>8</sup>", '⁸'=>"<sup>4</sup>",     // non-ISO to tag
