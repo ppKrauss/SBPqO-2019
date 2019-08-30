@@ -118,19 +118,19 @@ switch ($cmd) {
 	// falta testar depois do git add html_entity_decode($xml,ENT_HTML5,'UTF-8')  ou mb_convert_encoding($profile, 'HTML-ENTITIES', 'UTF-8'))
 	$CH_report=[];
 	$DIAC_TO = [
-		// portugues vigente
+		// diacrílicos para acentos do portugues vigente:
 		'c&#807;'=>"ç",    'C&#807;'=>"Ç", 
 		'a&#771;'=>"ã", 'o&#771;'=>"õ",  'A&#771;'=>"Ã", 'O&#771;'=>"Õ",
 		'a&#769;'=>"á", 'e&#769;'=>"é", 'i&#769;'=>"í", 'o&#769;'=>"ó", 'u&#769;'=>"ú",
 		'A&#769;'=>"Á", 'E&#769;'=>"É", 'I&#769;'=>"Í", 'O&#769;'=>"Ó", 'U&#769;'=>"Ú", 
 		'a&#770;'=>"â", 'e&#770;'=>"ê", 'o&#770;'=>"ô",
 		'a&#768;'=>"à",
-		// nomes estrangeiros
+		// diacrílicos para nomes estrangeiros:
 		'o&#776;'=>"ö", 'u&#776;'=>"ü", // ex. Grödig and Müller
-		// "&#8315;²" == "⁻²"
+		// ("&#8315;²" == "⁻²") dual para conveter caracter invalido 8315 em maca SUP: 
 		'&#8315;¹'=>"<sup>-1</sup>", '&#8315;²'=>"<sup>-2</sup>", '&#8315;³'=>"<sup>-3</sup>", // sup ISO
 		'&#8315;⁴'=>"<sup>-8</sup>", '&#8315;⁸'=>"<sup>-4</sup>",
-		// "&#713;¹" == 'ˉ¹'
+		// ("&#713;¹" == 'ˉ¹') dual para conveter caracter invalido 713 em maca SUP: "&#8315;²" == "⁻²"
 		'&#713;¹'=>"<sup>-1</sup>", '&#713;²'=>"<sup>-2</sup>", '&#713;³'=>"<sup>-3</sup>", // sup ISO 
 		'&#713;⁴'=>"<sup>-8</sup>", '&#713;⁸'=>"<sup>-4</sup>", 
 
@@ -138,7 +138,7 @@ switch ($cmd) {
 	$DIAC_REGEX = "/". join('|', array_keys($DIAC_TO) ). "/s";
 	$CH_TO = [  // falta decidir se &#64257; é "fi" ou bug.
 		'ƞ'=>'η', 'ɑ'=>'α', '∆' =>'Δ', '⍺'  =>'α', '𝜎'=>'σ', '△'=>'Δ', //  greek normalization
-		'∕'=>'÷', 'ː'=>':', 'ĸ'=>'κ', '‐'=>'-', 'ō'=>'õ', // etc. normalization
+		'∕'=>'÷', 'ː'=>':', 'ĸ'=>'κ', '‐'=>'-', 'ō'=>'õ', 'ā'=>'ã', 'ƛ'=>'λ',';'=>';', // etc. normalization
 		'˂'=>'&lt;', '˃'=>'&gt;', // expand to entity
 		'¹'=>"<sup>1</sup>", '²'=>"<sup>2</sup>", '³'=>"<sup>3</sup>", // ISO expand to tag
 		'𝑝'=>"<i>p</i>", '⁴'=>"<sup>8</sup>", '⁸'=>"<sup>4</sup>",     // non-ISO to tag
