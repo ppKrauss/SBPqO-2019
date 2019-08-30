@@ -20,6 +20,49 @@ Nesta etapa apenas foram sanitizados os arquios XML originais (pasta [recebidoOr
      
      3.3. Correção do [bug03](https://github.com/ppKrauss/SBPqO-2019/issues/3) (não foi adotado UTF-8 canônico/NFC no XML original), e conversão das entidades numéricas em símbolos. Ver Etapa 01c,  [*commit* `294027`](https://github.com/ppKrauss/SBPqO-2019/commit/294027b677744f979d216efd5976115ef143c0c1).
 
+## Resumo das regras de conversão corretivas da Etapa 01c
+As correções de bugs ([bug03]([bug03](https://github.com/ppKrauss/SBPqO-2019/issues/3) diacrílicos e bugs relativos a "sujeiras de edição" dos autores) e as normalizações (por exemplo uso do Delta  "Δ" do alabeto grego ao invés de "∆" ou "△") foram realizadas com base nas regras abaixo, extraídas de [`src/proc.php`](https://github.com/ppKrauss/SBPqO-2019/blob/294027b677744f979d216efd5976115ef143c0c1/src/proc.php#L117).
+
+```
+// diacrílicos para acentos do portugues vigente:
+	'c&#807;'=>"ç",    'C&#807;'=>"Ç", 
+	'a&#771;'=>"ã", 'o&#771;'=>"õ",  'A&#771;'=>"Ã", 'O&#771;'=>"Õ",
+	'a&#769;'=>"á", 'e&#769;'=>"é", 'i&#769;'=>"í", 'o&#769;'=>"ó", 'u&#769;'=>"ú",
+	'A&#769;'=>"Á", 'E&#769;'=>"É", 'I&#769;'=>"Í", 'O&#769;'=>"Ó", 'U&#769;'=>"Ú", 
+	'a&#770;'=>"â", 'e&#770;'=>"ê", 'o&#770;'=>"ô",
+	'a&#768;'=>"à",
+// diacrílicos para nomes estrangeiros:
+	'o&#776;'=>"ö", 'u&#776;'=>"ü", // ex. Grödig and Müller
+// ("&#8315;²" == "⁻²") dual para conveter caracter invalido 8315 em maca SUP: 
+	'&#8315;¹'=>"<sup>-1</sup>", '&#8315;²'=>"<sup>-2</sup>", '&#8315;³'=>"<sup>-3</sup>",
+	'&#8315;⁴'=>"<sup>-8</sup>", '&#8315;⁸'=>"<sup>-4</sup>",
+// ("&#713;¹" == 'ˉ¹') dual para conveter caracter invalido 713 em maca SUP: "&#8315;²" == "⁻²"
+	'&#713;¹'=>"<sup>-1</sup>", '&#713;²'=>"<sup>-2</sup>", '&#713;³'=>"<sup>-3</sup>", // sup ISO 
+	'&#713;⁴'=>"<sup>-8</sup>", '&#713;⁸'=>"<sup>-4</sup>", 
+  // PS: numerais ISO e não-ISO (4 a 9) também devem ser convertidos em sup.
+// Transliteração dos especiais inválidos para equivalentes corretos:
+	'ƞ'=>'η', 'ɑ'=>'α', '∆' =>'Δ', '⍺'  =>'α', '𝜎'=>'σ', '△'=>'Δ', //  greek normalization
+	'∕'=>'÷', 'ː'=>':', 'ĸ'=>'κ', '‐'=>'-', 'ō'=>'õ', // etc. normalization
+	'˂'=>'&lt;', '˃'=>'&gt;', // expand to entity
+	'¹'=>"<sup>1</sup>", '²'=>"<sup>2</sup>", '³'=>"<sup>3</sup>", // ISO expand to tag
+	'𝑝'=>"<i>p</i>", '⁴'=>"<sup>8</sup>", '⁸'=>"<sup>4</sup>",     // non-ISO to tag
+// Prezavados:
+	// gregos de 900 a 1000
+	// demais selecionados:
+	// 351,730,8733,8773,8776,8800,8804,8722,8805, // bons
+	// 8729,1178,1008, //  revisar esses
+// Convertidos para espaço:  8232
+// Convertidos para NBSP (165): 8195,8201,8202,59154,61617
+// Deletados: 8203,8206
+```
+
+------
+
+
+## Dumps
+
+Registro de mensagens de saída do terminal e evidência de teste dos procedimentos automáticos ou semi-automáticos.
+
 ### Dump da Etapa 01a
 Realizados os itens 2.1 e 2.2 descritos acima.
 
@@ -76,7 +119,7 @@ php src/proc.php etapa01b
 	-- TCC.xml: TCC001 .. TCC061
 ```
 
-###  Etapa 01c 
+###  Dump e comentários da Etapa 01c 
 Realizada a operação descrita como item 3.3 acima, consistiu em rodar script em modo teste e modo produção. Rodando `php src/proc.php -test etapa01c > relatorio01c.txt`, resultados:
 
 ```
