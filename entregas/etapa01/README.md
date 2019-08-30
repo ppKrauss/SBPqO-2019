@@ -17,6 +17,8 @@ Nesta etapa apenas foram sanitizados os arquios XML originais (pasta [recebidoOr
      3.1. Conversão em tag. [*Commit* `8260d2`](https://github.com/ppKrauss/SBPqO-2019/commit/8260d2b65a091d3c63d0027a51e7ebb28c0c8610).
 
      3.2. Acerto manual das tags desbalanceadas. [*Commit* `8a02d4`](https://github.com/ppKrauss/SBPqO-2019/commit/8a02d4287da6cc057b5babffa0acd459767e44eb).
+     
+     3.3. Correção do [bug03](https://github.com/ppKrauss/SBPqO-2019/issues/3) (não foi adotado UTF-8 canônico/NFC no XML original), e conversão das entidades numéricas em símbolos. Ver Etapa 01c,  [*commit* `294027`](https://github.com/ppKrauss/SBPqO-2019/commit/294027b677744f979d216efd5976115ef143c0c1).
 
 ### Dump da Etapa 01a
 Realizados os itens 2.1 e 2.2 descritos acima.
@@ -75,8 +77,7 @@ php src/proc.php etapa01b
 ```
 
 ###  Etapa 01c 
-
-Rodando `php src/proc.php -test etapa01c > relatorio01c.txt`. Resultados:
+Realizada a operação descrita como item 3.3 acima, consistiu em rodar script em modo teste e modo produção. Rodando `php src/proc.php -test etapa01c > relatorio01c.txt`, resultados:
 
 ```
  -- etapa01c - Convertendo (e contando) entidades numéricas dos XMLs originais -- 
