@@ -150,7 +150,7 @@ switch ($cmd) {
 	$CH_toSp = [8232]; // check it before
 
 	$CH_NBSP = [8195,8201,8202,59154,61617]; // check it before
-	$NBSP = '&#165'; // config to real or " " commom space.
+	$NBSP = '&#165;'; // config to real or " " commom space.
 	$CH_DEL = [8203,8206]; // danger, check it before
 	$n=0;
 	echo "\n -- $cmd - Convertendo (e contando) entidades numéricas dos XMLs originais -- ";
