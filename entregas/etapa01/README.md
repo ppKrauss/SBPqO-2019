@@ -1,6 +1,6 @@
 ## Entrada da ETAPA 01 - Conversão inicial
 
-Nesta etapa apenas foram sanitizados os arquivos XML originais (pasta [recebidoOriginal](../recebidoOriginal)) e convertidos para XML correto, em UTF-8 e com conteúdos em texto (não `CDATA`).
+Nesta etapa apenas foram sanitizados os arquivos XML originais (pasta [recebidoOriginal](../../recebidoOriginal)) e convertidos para XML correto, em UTF-8 e com conteúdos em texto (não `CDATA`).
 
 A entrega final  desta etapa se deu com *commit* `914ab33`. Todos os XMLs encontram-se na pasta [`recebidoOriginal` deste *commit*](https://github.com/ppKrauss/SBPqO-2019/tree/914ab3339e29099b0764e65a3652da53abef4773/recebidoOriginal).
 
