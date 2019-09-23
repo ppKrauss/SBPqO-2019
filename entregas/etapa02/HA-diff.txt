@@ -1,0 +1,19 @@
+111c111
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+143a144,153
+> 		<Sigla>HA016</Sigla>
+> 		<Titulo>Cysteinyl leukotriene receptor antagonism modulates experimental periodontitis in rats</Titulo>
+> 		<Autores> Moro MG*, Oliveira MDS, Jesus FN, Teixeira SA, Franco GCN, Spolidorio LC, Muscará MN, Holzhausen M</Autores>
+> 		<Universidade>Odontologia - UNIVERSIDADE DE SÃO PAULO - SÃO PAULO.</Universidade>
+> 		<Email>marcellamoro@usp.br</Email>
+> 		<Resumo>Cysteinyl leukotriene receptor activation is associated with the expression of proinflammatory molecules and osteoclastogenesis. The present study evaluated the effect of cysteinyl leukotriene receptor antagonism on experimental periodontitis induced by ligature in rats. One hundred and twenty male Wistar rats were randomly divided into four groups: Control - non-ligated group, ligature group (cotton ligature placed at lower first molars), and Montelukast (MT) group - ligature placed and systemic administration of two different doses of MT (10 or 30 mg/kg/day, MT 10 and MT 30, respectively). The amount of alveolar bone loss (ABL), as well as the histological analysis of collagen content, myeloperoxidase (MPO) activity, and gene expression of Collagen I, BLT1, CysLTR1, LTA4H, LTC4S, and bone metabolism and oxidative stress markers were determined at 7, 14 and 21 days. MT significantly reduced the expression of LTA4H, BLT1 and LTC4S (p&lt;0.05), and was effective in reducing ABL at 14 and 21 days (p&lt;0.05) with no significant effects on gingival collagen content and expression of oxidative stress markers (p&gt;0.05). MT significantly increased RUNX2 expression and decreased gingival MPO at 7 and 14 days (p&lt;0.05).</Resumo>
+> 		<Conclusao>It was concluded that leukotriene receptor antagonism by MT showed potential for modulating periodontitis progression.</Conclusao>
+> 		<Apoio/>
+> 	</Resumo>
+> 	<Resumo>
+161c171
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>

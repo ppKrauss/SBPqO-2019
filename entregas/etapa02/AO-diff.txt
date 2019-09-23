@@ -1,0 +1,357 @@
+51c51
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+81c81
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+229a230
+> 
+261c262
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+281c282
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+321c322
+< 		<Apoio></Apoio>
+...
+551c552
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+584,593d584
+< 		<Sigla>AO0059</Sigla>
+< 		<Titulo>Propriedades superficiais de revestimentos sintéticos e biológico aplicados em PMMA após 14 e 30 dias de exposição em biofilme de C. albicans</Titulo>
+< 		<Autores> Chocano APC*, Venante HS, Lisboa Filho PN, Porto VC</Autores>
+< 		<Universidade>Protese - UNIVERSIDADE DE SÃO PAULO - BAURU.</Universidade>
+< 		<Email>anapaula.chappuis@gmail.com</Email>
+< 		<Resumo>Foi avaliada a hidrofobicidade (HF) e rugosidade superficial (RS) de 5 adesivos utilizados para selar superfícies de resina acrílica (PMMA): etil-cianoacrilato (ECA); etil-CA gel (ECAg); butil-CA (BCA); octil-CA (OCA) e biopolímero de fibrina derivado de veneno de cobra (BPF) após 14 e 30 dias de exposição a biofilme de&lt;i&gt; C. albicans&lt;/i&gt;. Espécimes de PMMA foram confeccionados e duas camadas de cada adesivo aplicados sobre sua superfície. Em seguida, foram mensuradas a RS (perfilômetro) e HF (goniômetro) de cada espécime e, adicionalmente, um de cada grupo foi selecionado para avaliação da topografia no microscópio confocal 3D. Em seguida todos os espécimes foram esterilizados por oxido de etileno (OE) e inoculados com biofilme de &lt;i&gt;C.albicans&lt;/i&gt; SC5314 durante 14 e 30 dias. Concluído cada período, foi removido o biofilme e cada espécime foi esterilizado por OE para as avaliações finais da RS e HF. Os resultados foram analisados por meio de ANOVA 2 critérios (p&lt;0,05). O biofilme de&lt;i&gt; C. albicans&lt;/i&gt; diminuiu de maneira significante a RS de todos os grupos, exceto no grupo butil-CA. Enquanto à HF, houve uma diminuição significante dos valores hidrofóbicos em todos os grupos cianoacrilatos, exceto no grupo octil-CA aos 14 dias e butil-CA aos 30 dias. O grupo BPF manteve uma superfície hidrofílica em todos os períodos avaliados. A avaliação da topografia demonstrou que os grupos octil-CA e butil-CA apresentaram superfícies mais lisas.</Resumo>
+< 		<Conclusao>O grupo butil-CA evidenciou uma RS inalterada e o grupo octil-CA revelou os maiores valores hidrofóbicos após 14 e 30 dias de exposição a biofilme de &lt;i&gt;C. albicans&lt;/i&gt;.</Conclusao>
+< 		<Apoio>Apoio: FAPs - Fapesp - 2014/09426-3</Apoio>
+< 	</Resumo>
+< 	<Resumo>
+671c662
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+691c682,692
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+> 	</Resumo>
+> 	<Resumo>
+> 		<Sigla>AO0071</Sigla>
+> 		<Titulo>Tradução, adaptação transcultural e validação do questionário Locus of the Control Oral Health para adultos brasileiros</Titulo>
+> 		<Autores> Rocha JS*, Moysés SJ, Bortoluzzi MC, Pinto MHB</Autores>
+> 		<Universidade>Odontologia - PONTIFÍCIA UNIVERSIDADE CATÓLICA DO PARANÁ.</Universidade>
+> 		<Email>julianaschaia@hotmail.com</Email>
+> 		<Resumo>O objetivo deste estudo foi traduzir, adaptar transculturalmente e validar o questionário Locus of the Oral Health (LOCOH) para o português brasileiro. O processo de adaptação transcultural consistiu em: tradução inicial, síntese das traduções, retro tradução, análise por um comitê de especialistas e teste da versão pré-teste. A validação do instrumento foi realizada através das propriedades de medida de reprodutibilidade e validade. A consistência interna foi avaliada pelo coeficiente Alfa de Cronbach e a confiabilidade pelo coeficiente de correlação intraclasse. Para análise da validade de critério, foi aplicado simultaneamente a escala Multidimensional Lócus de Controle em Saúde (MHLC), considerado como padrão ouro. O pré-teste foi aplicado em 32 adultos, e revelou a necessidade de adequação de 6 itens. Na etapa de validação, a amostra foi composta por 67 adultos. Os valores finais para a consistência interna foram de 0,69, 0,91 e 0,78 para as subescalas Internalidade, Externalidade-Acaso e Externalidade-Outros Poderosos, respectivamente. Os valores de confiabilidade foram de 0,75, 0,94 e 0,88, respectivamente. Esses valores indicam de uma aceitável até excelente consistência interna. Também houve uma boa validade de critério entre LOCOH-brasileiro (versão final) e o MHLC.</Resumo>
+> 		<Conclusao>Em conclusão, este estudo demonstrou que LOCOH-Brasil é uma medida válida e confiável de Lócus de Controle para Saúde Bucal de adultos no Brasil.</Conclusao>
+> 		<Apoio/>
+711c712
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+721c722
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+741c742
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+751c752,762
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+> 	</Resumo>
+> 	<Resumo>
+> 		<Sigla>AO0079</Sigla>
+> 		<Titulo>Efeito da administração de estrôncio local no reparo ósseo alveolar e na interface osso/implante em ratos osteoporóticos</Titulo>
+> 		<Autores> Fernandes BR*, Kitagawa IL, De-Souza-batista FR, Lisboa Filho PN, Frigério PB, Gomes-Ferreira PHS, Okamoto R</Autores>
+> 		<Universidade>Cirurgia e Traumatologia Buco Maxilo Fac - UNIVERSIDADE ESTADUAL PAULISTA - ARAÇATUBA.</Universidade>
+> 		<Email>brenofernandesctbmf@hotmail.com</Email>
+> 		<Resumo>Este estudo tem a finalidade de analisar o efeito da administração de estrôncio (ES) local durante o processo de reparo em dois sítios diferentes: o alvéolo pós exodôntico (AL) e a região periimplantar (IMP) em ratos osteoporóticos. Quarenta e oito ratos adultos, foram divididos em seis grupos experimentais: SHAM AL, ORQ AL, ORQ AL ES e SHAM IMP, ORQ IMP e ORQ ES IMP. No dia 0 foi realizada a cirurgia de orquiectomia bilateral e as cirurgias fictícias no grupo SHAM, após 30 dias foram realizadas as cirurgias para instalação dos implantes nas tíbias direita e esquerda nos grupos ORQ IMP, SHAM IMP e ORQ ES IMP além das cirurgias para exodontia do incisivo central nos grupos ORQ AL, SHAM AL e ORQ AL ES adicionando estrôncio no alvéolo do grupo ORQ AL ES. A eutanásia aconteceu aos 60 dias pós cirurgia tanto de exodontia como de instalação dos implantes. As amostras foram coletadas e sofreram o processamento laboratorial para posterior avaliação imunoistoquímica. As proteínas avaliadas foram: OPG, RANKL, OC, TRAP, Wnt. As proteínas osteoprotegerina e rankl apresentaram-se marcadas de forma equilibrada nos dois sítios cirúrgicos avaliados. A osteocalcina mostrou-se bem marcada, especialmente no alvéolo pós exodôntico, mostrando uma atividade importante de mineralização óssea. Já a proteína wnt mostrou-se marcada de forma semelhante tanto no alvéolo como na região peri-implnantar.</Resumo>
+> 		<Conclusao>Com os resultados, podemos concluir que o estrôncio melhora a osseointegração e a qualidade do tecido ósseo neoformado ao redor de implantes e em alvéolos de ratos osteoporóticos.</Conclusao>
+> 		<Apoio>Apoio: CAPES</Apoio>
+791a803
+> 
+801c813
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+831c843
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+871c883
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+901c913
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+961c973
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+1001c1013
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+1031c1043
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+1041c1053
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+1051c1063
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+1061c1073
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+1071c1083
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+1121c1133
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+1131c1143
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+1141c1153
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+1191c1203
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+1251c1263
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+1271c1283,1293
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+> 	</Resumo>
+> 	<Resumo>
+> 		<Sigla>AO0133</Sigla>
+> 		<Titulo>Avaliação do desempenho mastigatório pelo teste da capacidade de mistura de goma de mascar de duas cores avaliada por um software</Titulo>
+> 		<Autores> Martinez LFP*, Castro FLAL, Bhering CLB, Gomes VM, Costa SC, Discacciati JAC, Vasconcellos WA</Autores>
+> 		<Universidade>Odr - UNIVERSIDADE FEDERAL DE MINAS GERAIS.</Universidade>
+> 		<Email>leonardofranchini@gmail.com</Email>
+> 		<Resumo>Quando um indivíduo apresenta a dentição comprometida, o processo da mastigação é fortemente afetado, alterando percepções na textura e no sabor dos alimentos, além de prejudicar a digestão. Essa pesquisa objetiva a avaliação da eficiência mastigatória de pacientes atendidos em um projeto de extensão em prótese total imediata e overdentures sobre implantes, antes e após os tratamentos. A amostra do estudo é composta por 24 pacientes. O teste com a goma de mascar de duas cores (Vivident) é aplicado em 2 momentos distintos: na consulta inicial, antes das exodontias, e após a instalação das próteses, na revisão de 3 meses. Os pacientes foram orientados a executar 30 ciclos mastigatórios sob supervisão do operador. Após o término, a goma mastigada é retirada da cavidade oral com uma pinça, acondicionada em sacos plásticos, identificada e prensada entre duas placas de vidro, obtendo-se uma espessura de 1mm. A goma prensada é então escaneada dos 2 lados e submetida à analise visual e digital, por meio do software ViewGum, gerando valores numéricos a serem analisados e comparados. Quanto melhor a capacidade mastigatória, mais homogênea é a coloração final e mais próximo de zero é o valor obtido.</Resumo>
+> 		<Conclusao>A partir da avaliação visual e digital, observou-se que após a reabilitação oral, as gomas apresentaram-se com coloração mais homogênea, e valores compatíveis com a melhora na capacidade mastigatória. O teste com goma de mascar de duas cores, escaneada e avaliada pelo softwear apropriado apresenta simplicidade técnica e potencial para aplicação na avaliação da qualidade da mastigação.</Conclusao>
+> 		<Apoio/>
+1281c1303
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+1361c1383
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+1381c1403
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+1391c1413
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+1421c1443
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+1431c1453
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+1451c1473
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+1461c1483
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+1473a1496,1505
+> 		<Sigla>AO0154</Sigla>
+> 		<Titulo>Influência da plataforma protética na distribuição de tensões em implantes extracurtos: in silico e in vitro</Titulo>
+> 		<Autores> Ferrarez LL*, Oliveira MF, Filgueiras A, Pinto DG, Larcher LGA, Assis NMSP, Oliveira BR, Sotto-Maior BS</Autores>
+> 		<Universidade>UNIVERSIDADE FEDERAL DE JUIZ DE FORA.</Universidade>
+> 		<Email>lucaslactim@yahoo.com.br</Email>
+> 		<Resumo>O objetivo do estudo foi avaliar por meio de Elementos Finitos (FEA) e Extensometria o benefício biomecânico das conexões protéticas quanto à distribuição de tensões para o tecido ósseo, implantes e componentes, quando utilizamos implantes extracurtos em regiões posterior de mandíbula. Para avaliação por extensiometria foram confeccionados vinte corpos de prova e divididos em dois grupos: Grupo Cone Morse Esplintado (CMES) e Hexágono externo Esplintado (HEES), cada corpo constituído por dois implantes extracurtos de 5 x 4 mm fixados em um bloco de poliuretano. Sobre os implantes foram instaladas coroas protéticas parafusadas relativas ao primeiro e segundo molares. Os corpos de prova foram submetidos a um carregamento de 120 N em uma máquina de fadiga mecânica, sendo registrados os valores da deformação sofrida no modelo de poliuretano através de extensômetros. Para avaliação por FEA um modelo tridimensional foi criado simulando virtualmente a mesma situação, sendo os valores de deformação óssea cortical e medular registrados. Como resultados foi observado no FEA uma menor deformação no grupo CMES, 0.0095µs para o osso cortical e 0.028 µs para o osso medular, na extensometria o grupo CMES apresentou menores deformações no osso cortical, nas regiões distal, lingual e vestibular do implante correspondente ao primeiro molar (p 0,016, 0,028 e 0,028 respectivamente).</Resumo>
+> 		<Conclusao>Concluímos que a conexão Cone Morse favoreceu uma menor deformação óssea marginal e uma melhor uniformidade em distribuição de tensão no componente protético quando utilizamos implantes extracurtos.</Conclusao>
+> 		<Apoio>Apoio: CAPES</Apoio>
+> 	</Resumo>
+> 	<Resumo>
+1561c1593
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+1583a1616,1625
+> 		<Sigla>AO0166</Sigla>
+> 		<Titulo>Efetividade do sistema reciproc no tratamento de dentes anteriores com lesão periapical: ensaio clínico  randomizado controlado</Titulo>
+> 		<Autores> Figueiredo FED*, Oliveira LSJ, Ribeiro MAG, Brito-Júnior M, Corrêa MB, Faria-E-silva AL</Autores>
+> 		<Universidade>UNIVERSIDADE FEDERAL DE SERGIPE.</Universidade>
+> 		<Email>fabricioeneas@hotmail.com</Email>
+> 		<Resumo>Apesar da facilidade técnica, poucos estudos avaliaram a efetividade da instrumentação reciprocante na prática clínica. Assim, o objetivo desta pesquisa foi avaliar o desempenho clínico da técnica endodôntica "lima única, cone único" em movimento reciprocante. Cento e vinte dentes anteriores que apresentavam quadro clínico de necrose pulpar e periodontite apical foram aleatoriamente instrumentados com limas manuais de aço inoxidável e obturados pela técnica da compactação lateral, ou instrumentados com uma única lima reciprocante e obturados pela técnica do cone único. O índice periapical foi utilizado tanto na avaliação inicial quanto na consulta de proservação de 6 meses para classificar as lesões periapicais. Os testes de Mann-Whitney, Chi-quadrado e o teste T foram utilizados para analisar os dados. Também foi criado um modelo de regressão logística para ajustar a chance de sucesso (razão de chances) do tratamento (&amp;#945; = 0.05). A perda de seguimento foi de 26,7%, e a taxa geral de cura das lesões foi de 66% na análise por protocolo e 48% na análise por intenção de tratar. A única variável que afetou a chances de sucesso do tratamento foi a classificação inicial da lesão no índice periapical.</Resumo>
+> 		<Conclusao>Pode-se concluir que o protocolo de tratamento "lima única, cone único" com sistema reciprocante Reciproc apresenta resultados semelhantes ao tratamento com limas manuais de aço inoxidável e obturação pela técnica da compactação lateral da guta-percha, no que concerne as taxas de cura de lesões periapicais.</Conclusao>
+> 		<Apoio>Apoio: CNPq - 405557/2016-7</Apoio>
+> 	</Resumo>
+> 	<Resumo>
+1661c1703
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+1671c1713
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+1681c1723
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+1701c1743
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+1711c1753
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+1731c1773
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+1751c1793
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+1761c1803
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+1791c1833
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+1811c1853
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+1821c1863
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+1881c1923
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+1931c1973
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+1951c1993,2003
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+> 	</Resumo>
+> 	<Resumo>
+> 		<Sigla>AO0205</Sigla>
+> 		<Titulo>O impacto do uso de  um contra-ângulo pneumatico na vida em fadiga  de instrumentos M-Wire e tratados termicamente (blue)</Titulo>
+> 		<Autores> Gabina TTG*, Antunes HS, Silva EJNL, Vieira VTL, De Deus G, Lopes HP</Autores>
+> 		<Universidade>Pos Graduação - UNIVERSIDADE DO GRANDE RIO.</Universidade>
+> 		<Email>tanizetggabina@gmail.com</Email>
+> 		<Resumo>To evaluate the cyclic fatigue resistance of Reciproc M-Wire and Reciproc R25 Blue driven by Direct® contra-angle connected to an ordinary an air-driven motor or an electric motor and compare the results with those obtained by the Reciproc M-Wire or Reciproc Blue driven by an electric torque-controlled motor using BRECIPROC ALL^ preset program.30 Reciproc M-Wire and 30 Reciproc Blue were used. Cyclic fatigue resistance was tested measuring the time to fracture and the number of cycles to fracture in an artificial stainlesssteel canal with a 60° angle and a 5-mm radius of curvature. The Reciproc M-Wire and Reciproc Blue were activated with a 6:1 reduction handpiece powered by a torque-controlled motor using BRECIPROC ALL^ preset program, with Reciproc Direct® contra-angle powered by an ordinary air-driven motor or with Direct® contra-angle powered by an electric motor (n = 10). Instruments driven by Direct® contra-angle powered by an electric or by an ordinary air-driven motor revealed significantly longer cyclic fatigue life and number of cycles to fracture than instruments driven by an electric torque-controlled motor using "RECIPROC ALL" preset program</Resumo>
+> 		<Conclusao>Reciproc Blue showed improved performance regarding fatigue resistance when compared to Reciproc M-Wire . Instruments driven by Reciproc Direct® contra-angle showed higher cyclic fatigue life and number of cycles to fracture than instruments driven by an electric torque-controlled motor.. The present study showed improved cyclic fatigue life of endodontic instruments when activated by Reciproc Direct®.</Conclusao>
+> 		<Apoio/>
+1991c2043
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+2001c2053
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+2059c2111
+< 		<Resumo>Esse estudo avaliou a manutenção da alteração de cor (&amp;#916;E) de dentes de pacientes submetidos ao clareamento de consultório com LED violeta (LED) associado ou não a peróxido de hidrogênio 35% (PH) ou de carbamida 37% (PC), 6 meses após intervenção. Após aprovação ética e do registro de ensaio clínico, 100 pacientes foram selecionados respeitando critérios de inclusão/exclusão, sendo randomicamente distribuídos nos grupos (n=20): LED, LED/PC, PC, LED/PH e PH. A mensuração de cor objetiva e subjetiva do canino superior direito foi realizada com espectrofotômetro digital e escala de cor visual para dentes clareados (SGU), respectivamente, antes (T0), 14 dias (T1) e 6 meses (T2) após o clareamento. Valores de &amp;#916;E, &amp;#916;L, &amp;#916;a, &amp;#916;b e &amp;#916;SGU (Intervalo 1: T1 - T0; Intervalo 2: T2 - T0) foram submetidos a Kruskal-Wallis H para análise inter-grupos e a Wilcoxon para avaliação intra-grupos (&amp;#945;=5%). LED promoveu menor &amp;#916;E e &amp;#916;SGU entre os grupos, em ambos os intervalos (p&lt;0,05). LED/PC resultou em &amp;#916;E, &amp;#916;L, &amp;#916;a e &amp;#916;SGU similar a PC em ambos tempos de avaliação. Enquanto LED/PH apresentou &amp;#916;E superior a PH em ambos os intervalos (p&lt;0,001), apenas &amp;#916;SGU1 foi maior para LED/PH (p=0,019). &amp;#916;b2 foi maior para PH e PC quando irradiados por LED (p&gt;0.05). Após 6 meses, não foram detectadas diminuições significativas em &amp;#916;(E, L, a, b) e &amp;#91#916;SGU provocados pelos protocolos com LED.</Resumo>
+---
+> 		<Resumo>Esse estudo avaliou a manutenção da alteração de cor (&amp;#916;E) de dentes de pacientes submetidos ao clareamento de consultório com LED violeta (LED) associado ou não a peróxido de hidrogênio 35% (PH) ou de carbamida 37% (PC), 6 meses após intervenção. Após aprovação ética e do registro de ensaio clínico, 100 pacientes foram selecionados respeitando critérios de inclusão/exclusão, sendo randomicamente distribuídos nos grupos (n=20): LED, LED/PC, PC, LED/PH e PH. A mensuração de cor objetiva e subjetiva do canino superior direito foi realizada com espectrofotômetro digital e escala de cor visual para dentes clareados (SGU), respectivamente, antes (T0), 14 dias (T1) e 6 meses (T2) após o clareamento. Valores de &amp;#916;E, &amp;#916;L, &amp;#916;a, &amp;#916;b e &amp;#916;SGU (Intervalo 1: T1 - T0; Intervalo 2: T2 - T0) foram submetidos a Kruskal-Wallis H para análise inter-grupos e a Wilcoxon para avaliação intra-grupos (&amp;#945;=5%). LED promoveu menor &amp;#916;E e &amp;#916;SGU entre os grupos, em ambos os intervalos (p&lt;0,05). LED/PC resultou em &amp;#916;E, &amp;#916;L, &amp;#916;a e &amp;#916;SGU similar a PC em ambos tempos de avaliação. Enquanto LED/PH apresentou &amp;#916;E superior a PH em ambos os intervalos (p&lt;0,001), apenas &amp;#916;SGU1 foi maior para LED/PH (p=0,019). &amp;#916;b2 foi maior para PH e PC quando irradiados por LED (p&gt;0.05). Após 6 meses, não foram detectadas diminuições significativas em &amp;#916;(E, L, a, b) e &amp;#916;SGU provocados pelos protocolos com LED.</Resumo>
+2071c2123
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+2081c2133
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+2111c2163
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+2121c2173
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+2141c2193,2203
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+> 	</Resumo>
+> 	<Resumo>
+> 		<Sigla>AO0226</Sigla>
+> 		<Titulo>Propriedades superficiais de revestimentos sintéticos e biológico aplicados em PMMA após 14 e 30 dias de exposição em biofilme de C. albicans</Titulo>
+> 		<Autores> Chocano APC*, Venante HS, Lisboa Filho PN, Porto VC</Autores>
+> 		<Universidade>Protese - UNIVERSIDADE DE SÃO PAULO - BAURU.</Universidade>
+> 		<Email>anapaula.chappuis@gmail.com</Email>
+> 		<Resumo>Foi avaliada a hidrofobicidade (HF) e rugosidade superficial (RS) de 5 adesivos utilizados para selar superfícies de resina acrílica (PMMA): etil-cianoacrilato (ECA); etil-CA gel (ECAg); butil-CA (BCA); octil-CA (OCA) e biopolímero de fibrina derivado de veneno de cobra (BPF) após 14 e 30 dias de exposição a biofilme de&lt;i&gt; C. albicans&lt;/i&gt;. Espécimes de PMMA foram confeccionados e duas camadas de cada adesivo aplicados sobre sua superfície. Em seguida, foram mensuradas a RS (perfilômetro) e HF (goniômetro) de cada espécime e, adicionalmente, um de cada grupo foi selecionado para avaliação da topografia no microscópio confocal 3D. Em seguida todos os espécimes foram esterilizados por oxido de etileno (OE) e inoculados com biofilme de &lt;i&gt;C.albicans&lt;/i&gt; SC5314 durante 14 e 30 dias. Concluído cada período, foi removido o biofilme e cada espécime foi esterilizado por OE para as avaliações finais da RS e HF. Os resultados foram analisados por meio de ANOVA 2 critérios (p&lt;0,05). O biofilme de&lt;i&gt; C. albicans&lt;/i&gt; diminuiu de maneira significante a RS de todos os grupos, exceto no grupo butil-CA. Enquanto à HF, houve uma diminuição significante dos valores hidrofóbicos em todos os grupos cianoacrilatos, exceto no grupo octil-CA aos 14 dias e butil-CA aos 30 dias. O grupo BPF manteve uma superfície hidrofílica em todos os períodos avaliados. A avaliação da topografia demonstrou que os grupos octil-CA e butil-CA apresentaram superfícies mais lisas.</Resumo>
+> 		<Conclusao>O grupo butil-CA evidenciou uma RS inalterada e o grupo octil-CA revelou os maiores valores hidrofóbicos após 14 e 30 dias de exposição a biofilme de &lt;i&gt;C. albicans&lt;/i&gt;.</Conclusao>
+> 		<Apoio>Apoio: FAPs - Fapesp - 2014/09426-3</Apoio>
+2181c2243
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+2191c2253
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+2201c2263
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+2211c2273
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+2231c2293
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+2261a2324,2333
+> 	</Resumo>
+> 	<Resumo>
+> 		<Sigla>AO0240</Sigla>
+> 		<Titulo>Perda dentária na população adulta de Porto Alegre, Brazil: estudo transversal de base populacional</Titulo>
+> 		<Autores> Fagundes ACV*, Rios FS, Moura MS, Jardim JJ, Maltz M, Haas AN</Autores>
+> 		<Universidade>UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL.</Universidade>
+> 		<Email>anacvallim@gmail.com</Email>
+> 		<Resumo>Determinar a prevalência, extensão e indicadores de risco para perda dentária em adultos acima de 35 anos de idade residentes na cidade de Porto Alegre. Este foi um estudo observacional transversal de base populacional. Uma amostra representativa de 1225 indivíduos foi selecionada utilizando-se uma amostragem aleatória proporcional de múltiplos-estágios. Os indivíduos responderam a um questionário estruturado e receberam um exame clínico. Perda dentária foi estimada a partir do exame ICDAS. Regressão de Poisson multivariável foi aplicada para indicadores de risco para perda dentária, sendo reportados razão das médias (RM) e intervalos de confiança de 95% (IC95%). Resultados: Um total de 201 indivíduos eram totalmente desdentados representando 10,4% da população (IC95% 8,4-12,4). A média de perda dentária foi igual a 13,3 (IC95% 12,1-14,4). Sexo, idade, educação, nível socioeconômico e fumo foram identificados como indicadores de risco a perda dentária. A média de perda dentária em homens foi 2,4 vezes maior do que em mulheres (RM=2,38 IC95% 1,31-4,32). Indivíduos com idades de 55-64 (RM=2,36 IC95% 1,79-3,10) e &amp;#8805;65 anos (RM=2,20 IC95% 1,43-3,39) apresentaram maior perda dentária. As RM para indivíduos de alta educação e alto nível socioeconômico foram de 0,19 e 0,23, respectivamente. A média de perda dentária foi 1,21 vezes maior dentre os fumantes do que nos nunca fumantes.</Resumo>
+> 		<Conclusao>Edentulismo e perda dentária ainda são altos na população adulta brasileira, estando associados a fatores modificadores que podem ser abordados em estratégias preventivas futuras.</Conclusao>
+> 		<Apoio/>

@@ -1,0 +1,238 @@
+21c21
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+31c31
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+41c41
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+51c51
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+61c61
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+71c71
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+81c81
+< 		<Apoio>Apoio: FAPESP: 2017/25242-8, 2015/23479-5; CNPq 308162/2014-5 e CAPES</Apoio>
+---
+> 		<Apoio>Apoio: FAPESP: 2017/25242-8, 2015/23479-5; CNPq 308162/2014-5 &amp; CAPES</Apoio>
+91c91
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+101c101
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+111c111
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+121c121
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+131c131
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+141c141
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+151c151
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+161c161
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+173c173
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+183c183
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+193c193
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+203c203
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+213c213
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+223c223
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+233c233
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+243c243
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+253c253
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+263c263
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+273c273
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+283c283
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+293c293
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+303c303
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+313c313
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+323c323
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+333c333
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+343c343
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+353c353
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+363c363
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+373c373
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+383c383
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+393c393
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+403c403
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+413c413
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+423c423
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+433c433
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+443c443
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+453c453
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+463c463
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+473c473
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+483c483,493
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+> 	</Resumo>
+> 	<Resumo>
+> 		<Sigla>TCC051</Sigla>
+> 		<Titulo>Previsibilidade, sensibilidade e longevidade no tratamento odontológico ao paciente com Síndrome de Apert</Titulo>
+> 		<Autores> Queiroga NP*, Spigolon R, Oliveira CS, Pedro ACC, Alves LAC, Andia-Merlin RY, Giovani EM</Autores>
+> 		<Universidade>Odontologia - UNIVERSIDADE PAULISTA - SÃO PAULO.</Universidade>
+> 		<Email>nathalia.queiroga@hotmail.com</Email>
+> 		<Resumo>A síndrome de Apert é uma condição genética rara, autossômica dominante, caracterizada pela craniossinostose, hipoplasia do terço médio da face, sindactilia das mãos e pés, acrobraquicefalia, depressão dos ossos temporais, boca em forma de trapézio, ponte nasal achatada, hipertelorismo, proptose ocular e fissuras palpebrais obliquas baixas. Paciente sexo masculino, 13 anos, leucoderma, diagnóstico médico laboratorial de alterações do desenvolvimento aos 6 meses de gestação. Na anamnese a mãe relatou que ele permaneceu por 2 meses na incubadora, onde teve a retina de um olho queimada. Com 2 anos de idade bronco aspirou um grão de arroz, em consequência sofreu parada cardiorespiratória, submetendo-se a cirurgias de traqueostomia e colocação de sonda gastrointestinal, e em consequência teve paralisia cerebral. Realizou 2 cirurgias de craniostenose - aos 3 e 6 meses de vida. Ao exame físico, observamos acrobraquicefalia, sindactilia dos dedos das mãos e dos és, hipoplasia da face, hipertelorismo, a presença de pregas epicânticas e fissuras palpebrais, nariz em sela, boca trapezoidal, e inserção baixo dos ouvidos externos. Dentre as manifestações bucais podemos incluir o palato em forma de V invertido, maloclusão tipo classe III, tumefações ao longo do palato duro e pseudofenda palatina.</Resumo>
+> 		<Conclusao>As alterações sistêmicas e bucais afetam a vida dos indivíduos portadores da síndrome, o que faz com que o tratamento desses pacientes envolva uma equipe multidisciplinar. Todo e qualquer procedimento deve ser estudado e programado de forma individualizada.</Conclusao>
+> 		<Apoio/>
+493c503
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+503c513
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+513c523
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+523c533
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+533c543
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+543c553
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+553c563
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+563c573
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+573c583
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+583c593
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>

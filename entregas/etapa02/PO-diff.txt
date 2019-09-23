@@ -1,0 +1,118 @@
+...
+
+111c111,121
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+> 	</Resumo>
+> 	<Resumo>
+> 		<Sigla>PO012</Sigla>
+> 		<Titulo>Conhecimento sobre arco dental reduzido e sua utilização na indicação de usuários para confecção de próteses em serviço público de saúde</Titulo>
+> 		<Autores> Dias CA*, Kaplan MH, Bighetti TI, Waldemarin RFA, Castilhos ED</Autores>
+> 		<Universidade>Faculdade de Odontologia - UNIVERSIDADE FEDERAL DE PELOTAS.</Universidade>
+> 		<Email>clarissadeaguiar@hotmail.com</Email>
+> 		<Resumo>O objetivo foi analisar o conhecimento dos cirurgiões-dentistas (CD) das Unidades Básicas de Saúde (UBS) do município de Pelotas sobre Arco Dental Reduzido (ADR) e a associação com o encaminhamento de usuários para o Serviço de Prótese Dentária (SPD). Trata-se de um estudo transversal. Foi aplicado um questionário com quatorze (14) perguntas incluindo dados pessoais, caso clínico sobre ADR e experiência com ADR. Os dados foram descritos e a associação testada com o teste exato de Fischer. Do total 64 dentistas, 58 (90,6%) responderam as questões. A idade média dos CDs foi de 39,5 anos e tempo de formação variou entre 11 e 20 anos. Dos 58 CDs, 78,3% relataram conhecer os conceitos sobre ADR e 68,1% levavam em consideração a teoria na tomada de decisões para encaminhar ao SPD. No caso hipotético de usuário com ADR sem indicação de prótese, a conduta de não indicar esteve associada com o relato de conhecer o tema (p&lt;0,05). O encaminhamento de usuários com as características do caso para o serviço de prótese não apresentou associação com o conhecimento de ADR (p=0,88).</Resumo>
+> 		<Conclusao>Concluiu-se que a maioria dos CDs entrevistados possui conhecimento a respeito do ADR, entretanto, esse saber/aprendizado não esteve associado com a tomada de decisões para encaminhamentos ao SPD. Os resultados do presente estudo podem colaborar na elaboração de estratégias e de políticas públicas de saúde a fim de capacitar os profissionais da rede e contribuir para a criação de protocolos que priorizem o encaminhamento de usuários com prejuízos nas funções mastigatória, fonética e estética ao SPD.</Conclusao>
+> 		<Apoio/>
+131c141
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+141c151
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+151c161
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+161c171
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+171c181
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+181c191
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+191c201
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+201c211
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+211c221
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+221c231
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+231c241
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+241c251
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+251c261
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+271c281
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+301c311
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+311c321
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+341c351
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+351c361
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+371c381
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+391c401,411
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+> 	</Resumo>
+> 	<Resumo>
+> 		<Sigla>PO041</Sigla>
+> 		<Titulo>Validação dos dados do sistema de informação CNES x PMAQ: Profissionais e Equipamentos Odontológicos</Titulo>
+> 		<Autores> Bueno AS*, Santos KW, Hugo FN, Celeste RK</Autores>
+> 		<Universidade>Odontologia - UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL.</Universidade>
+> 		<Email>andrebueno78@gmail.com</Email>
+> 		<Resumo>Avaliar a concordância e validade entre dados do Cadastro Nacional de Estabelecimentos de Saúde - CNES sobre profissionais(PRO) da atenção básica e equipamentos de uso odontológico (EQO) com os dados informados no Programa de Melhorias e Avaliação da Qualidade da Atenção Básica PMAQ-AB 2º ciclo. Foram analisados os dados do quantitativo de profissionais e equipamentos no período entre Nov/2013 a Jul/2014. A unidade de análise foi em nível de unidade básica de saúde, caracterizada pelo número do CNES (n=24124). A concordância para variáveis contínuas foi feita com Coeficiente de Correlação Intra-classe (ICC) e calculada a diferença absoluta por método de Band-Altman. Para análise de acesso a serviços, as variáveis foram dicotomizadas em 0 ou &gt;0 para equipamento/profissional, então calculou-se sensibilidade (SE) e especificidade(ES). O percentual de concordância variou entre 29.5% para Caneta de Alta Rotação e 83.6% para Equipo Odontológico. Em média, para cada unidade de saúde, o CNES apresentou 2.1 médicos, 1.1 dentistas e 1.6 enfermeiras, e o PMAQ-AB, respectivamente 1.4, 0.9 e 1.3. Os dados da base do CNES foram maiores do que o PMAQ para profissionais e menores para equipamento. Em termos de acesso, os resultados foram inconsistente com tendência a altas sensibilidades (&gt;90%) para profissionais. Em todos os casos, melhor acurácia foi observada em municípios com maior porte populacional.</Resumo>
+> 		<Conclusao>Embora o erro médio do CNES pode ser considerado pequeno, o erro aleatório foi grande, resultando em baixos níveis de concordância.</Conclusao>
+> 		<Apoio/>
+401c421
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+411c431
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+421c441
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>

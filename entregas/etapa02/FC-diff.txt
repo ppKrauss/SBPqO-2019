@@ -1,0 +1,32 @@
+21c21
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+51c51
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+61c61
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+141c141
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+171c171
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+191c191
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+231c231
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>
+271c271
+< 		<Apoio></Apoio>
+---
+> 		<Apoio/>

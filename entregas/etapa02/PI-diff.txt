@@ -1,0 +1,2425 @@
+41c41
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+61c61
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+81c81
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+111c111
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+121c121
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+131c131
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+141c141
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+151c151
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+191c191
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+211c211
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+221c221
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+251c251
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+261c261
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+271c271,281
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+>   </Resumo>
+>   <Resumo>
+>     <Sigla>PI0030</Sigla>
+>     <Titulo>Conhecimento dos profissionais de Odontologia quanto ao atendimento do paciente portador de HIV</Titulo>
+>     <Autores> Boscardini BAB*, Moreira EJL, Silva-Boghossian CM</Autores>
+>     <Universidade>Odontologia - UNIVERSIDADE DO GRANDE RIO.</Universidade>
+>     <Email>brenda_azzariti@hotmail.com</Email>
+>     <Resumo>O objetivo do estudo foi avaliar o nível de conhecimento por parte de Cirurgiões-Dentistas quanto ao atendimento odontológico do paciente portador de HIV. Metodologia: Um total de 242 cirurgiões-dentistas do Estado do Rio de Janeiro responderam a um questionário do Google Formulários sobre procedimentos de biossegurança, manifestações orais da AIDS e o conhecimento da infecção pelo HIV. Os dados foram analisados através dos testes t e Qui-quadrado, grupando as respostas pelo gênero dos participantes. Resultados: A maioria dos participantes foi do gênero feminino (66,9%). As médias das idades dos participantes foram de 37,9 (mulheres) e de 42,9 (homens) anos, sendo que a idade foi significativamente diferente entre os gêneros (p = 0,001). Homens tinham significativamente mais tempo de formado (18,4 anos) do que mulheres (14,5%), p = 0,012. Em torno de 15% dos participantes não possuíam especialização, sendo que os outros tinham 1 ou mais especializações. Das 14 manifestações orais questionadas, candidíase oral, leucoplasia pilosa e gengivite ulcerativa necrosante foram as mais apontadas como associadas ao HIV. Acima de 85% dos respondentes ficariam preocupados em se infectar com HIV em caso de acidente com perfurocortante. Diferenças significativas entre os gêneros também foram observadas quanto ao uso de máscara (p = 0,01) e de gorro (p &lt; 0,0001).</Resumo>
+>     <Conclusao>A maioria dos cirurgiões-dentistas participantes apresenta um bom conhecimento no manejo do portador de HIV, tanto no que tange à biossegurança quanto às manifestações orais mais comumente associadas a HIV/ AIDS.</Conclusao>
+>     <Apoio>Apoio: Funadesp - bolsa</Apoio>
+351c361
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+361c371
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+381c391
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+411c421
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+421c431
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+431c441
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+451c461
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+471c481
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+491c501
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+501c511
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+551c561,571
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+>   </Resumo>
+>   <Resumo>
+>     <Sigla>PI0060</Sigla>
+>     <Titulo>Avaliação das alterações periodontais e dentárias em pacientes tratados com  aparelho Quadrihélice através da tomografia computadorizada</Titulo>
+>     <Autores> Pereira JKS*, Ribeiro GLU, Thys DG, Duque TM</Autores>
+>     <Universidade>Odontologia - UNIVERSIDADE FEDERAL DE SANTA CATARINA.</Universidade>
+>     <Email>juliakspereira@outlook.com</Email>
+>     <Resumo>O objetivo foi avaliar as alterações periodontais e dentárias em pacientes tratados com o aparelho Quadrihélice por meio da tomografia computadorizada de feixe cônico (TCFC). A amostra foi composta por 21 indivíduos, sendo 11 do sexo feminino e 10 do sexo masculino, que utilizaram o aparelho Quadrihélice. O protocolo de ativação do aparelho foi de 2mm mensal e o total de expansão foi de 8mm. Os exames de TCFC foram realizados antes do início do tratamento (T1) e após 2 meses do fim da ativação dos aparelhos (T2). Após a aquisição, as imagens foram salvas em arquivos DICOM (Digital Imaging and Communications in Medicine), reconstruídas em camadas de 0,25mm de espessura e manipuladas através do programa Osirix Medical Imaging Software 32-bit. O longo eixo da raiz mesiovestibular e palatina do primeiro molar superior permanente (1MSP) serviu como referência para a padronização dos cortes tomográficos. Foram verificadas altura, espessura da tábua óssea vestibular, assim como, a inclinação axial dos dentes de ancoragem após o procedimento de expansão lenta da maxila com o aparelho citado. Observou-se que as medidas verticais e horizontais dos tecidos que suportam os dentes de ancoragem aumentaram (0,51mm e 0,53mm) e diminuíram (0,44mm e 0,77mm), respectivamente, havendo inclinação axial de 9,39° no sentido vestibular.</Resumo>
+>     <Conclusao>Conclui-se que o uso do aparelho Quadrihélice proporcionou significantes alterações dentárias e dos tecidos de suporte, demonstrando a necessidade de controlar a inclinação vestibular dos molares para a obtenção de melhores resultados.</Conclusao>
+>     <Apoio/>
+561c581
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+591c611
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+601c621
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+613a634,643
+>     <Sigla>PI0067</Sigla>
+>     <Titulo>Avaliação &lt;i&gt;in vitro&lt;/i&gt; da rugosidade superficial de diferentes resinas compostas</Titulo>
+>     <Autores> Oliveira ES*, Pompeu DS, Fonseca AH, Barbosa GM, Alves EB, Silva CM, Araújo JLN</Autores>
+>     <Universidade>Faculdade de Odontologia - UNIVERSIDADE FEDERAL DO PARÁ.</Universidade>
+>     <Email>erica8322@gmail.com</Email>
+>     <Resumo>Este ensaio &lt;i&gt;in vitro&lt;/i&gt; avaliou a influência de duas técnicas de polimento na lisura superficial de resinas compostas de diferentes composições. Foram utilizadas as resinas compostas Bulk Fill One (3M-ESPE) e Vittra (FGM) na cor A2, sendo confeccionados 30 corpos de prova (CP), divididos em seis grupos (n=5): G1= Vittra/controle, G2= Vittra/American Burrs, G3= Vittra/TDV, G4= Bulk Fill One/controle, G5= Bulk Fill One/American Burrs, G6= Bulk Fill One/TDV. Os CP foram confeccionados com uma matriz de teflon bipartida (5 X 2mm) sendo a resina inserida em incremento único e fotoativada por 20s/1200mW/cm2 modo High (Bluephase-Ivoclar/Vivadent). As amostras foram submetidas a acabamento (pontas diamantadas 3195F e FF) e polimento imediato (TDV ou American Burrs). Os espécimes foram armazenados em estufa 37° por 48h. A avaliação da rugosidade superficial (Ra) foi realizada pelo rugosímetro SJ-301 (Mitutoyo, Los Angeles, CA-USA) através da média (µm) de três leituras, com um limite de tracejamento (Lt) de 5mm e com comprimento de amostragem ou cut-off (La) de 0,25mm. Para análise estatística foram utilizados os testes de Kruskal-Wallis e Dunn (&amp;#945;=0,05), verificando-se diferenças significantes entre os grupos G3 e G6 ; G4 e G6 (p-valor=0,014).</Resumo>
+>     <Conclusao>A resina composta Bulk Fill One polida com o sistema TDV apresentou menor rugosidade superficial em relação aos outros grupos.</Conclusao>
+>     <Apoio/>
+>   </Resumo>
+>   <Resumo>
+621c651
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+633a664,673
+>     <Sigla>PI0070</Sigla>
+>     <Titulo>Incorporação de uma catequina a um sistema adesivo universal: um ensaio clínico randomizado</Titulo>
+>     <Autores> Mota ALM*, Albuquerque NLG, Costa CAGA, Santiago SL, Lemos MVS, Mendonça JS</Autores>
+>     <Universidade>UNIVERSIDADE FEDERAL DO CEARÁ.</Universidade>
+>     <Email>anynha.mota@gmail.com</Email>
+>     <Resumo>O objetivo do presente trabalho foi avaliar o desempenho de restaurações cervicais quando utilizado um adesivo multimodo (Single Bond Universal® - SBU) incorporado com epigalocatequina-3-galato (EGCG), o mesmo foi aplicado utilizando-se duas estratégias distintas (autocondicionante ou condicionamento total), tendo periodo de acompanhamento de 6 e 12 meses. Para tanto, foi realizado um ensaio clínico randomizado onde 160 restaurações foram realizadas em 29 pacientes, sendo as mesmas divididas em quatro diferentes grupos: condicionamento total (CT); condicionamento total + 0,1% de EGCG (CT-EGCG); autocondicionante (AC); e autocondicionante + 0,1% de EGCG (AC-EGCG). O adesivo experimental foi preparado pela incorporação direta de 0,1% (p/p) de EGCG em SBU e aplicando de acordo com as instruções do fabricante. As lesões foram então restauradas utilizando o compósito de resina nanopartículada Filtek Z350XT e avaliadas no início do estudo, posteriormente com 6 e 12 meses, utilizando os critérios estabelecidos pela FDI. As análises estatísticas foram realizadas pelos testes de Kruskal-Wallis e McNemar, com nível de significância de 5%.</Resumo>
+>     <Conclusao>Não foram encontradas diferenças estatísticas entre os adesivos testados para nenhum dos critérios avaliados (p&gt; 0,05). A taxa de retenção de 12 meses foi de 97,37% para AC, 94,73% para AC-EGCG e 100% para CT e CT-EGCG. O comportamento clínico do adesivo universal incorporado com EGCG não afetou negativamente o desempenho clínico em restaurações cervicais ao longo de 12 meses.</Conclusao>
+>     <Apoio>Apoio: CNPq</Apoio>
+>   </Resumo>
+>   <Resumo>
+641c681
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+651c691
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+691c731
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+701c741
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+731c771
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+753a794,803
+>     <Sigla>PI0084</Sigla>
+>     <Titulo>Influência do macro design e da densidade óssea na estabilidade primária de diferentes modelos de mini-implantes dentais</Titulo>
+>     <Autores> Liu PL*, Piola AL, Valente MLC, Oliveira TT, Shimano AC, Reis AC</Autores>
+>     <Universidade>Materiais Dentários e Próteses - UNIVERSIDADE DE SÃO PAULO - RIBEIRÃO PRETO.</Universidade>
+>     <Email>prilailiu@gmail.com</Email>
+>     <Resumo>O objetivo do presente estudo foi avaliar in vitro a influência do macro design e da densidade óssea na estabilidade primária de mini-implantes dentais. 30 mini-implantes foram divididos em três grupos (n=20): G1 - modelo comercial Intralock; G2 - modelo experimental rosqueado e G3 - modelo experimental helicoidal. Os modelos experimentais apresentaram alterações de formato, tamanho e disposição das roscas e chanfros comparados ao comercial. A estabilidade primaria foi avaliada por meio de torque de inserção (TI) e ensaio de arrancamento, após a instalação em blocos individuais de poliuretana (PU) com densidades de (n=30): 20 e 40 PCF ou 0,32 g/cm3 e 0,64 g/cm3, respectivamente. O torque de inserção foi avaliado pelos testes não paramétricos de Kruskal-Wallis e Mann-Whitney U e o arrancamento, por ANOVA e Tukey, todos com nível de significância de 5%. O TI foi menor no G3 (p&lt;0,05) comparado ao G1 e G2, nas duas PU de 20 e 40 PCF; com maior média observada para o G2. No arrancamento, foi verificada diferença entre os pares G1 e G2/ G1 e G3, tanto na poliuretana de 20 (p=0,012; p&lt;0,001), como na de 40 PCF (p=0,004; p&lt;0,001), com maior média para o G1. Tanto para o TI como para o arrancamento, maiores médias foram observadas para a PU de 40 PCF em comparação à de 20 PCF (p&lt;0,005), exceto para o G3 que obteve resultados semelhantes para as duas densidades.</Resumo>
+>     <Conclusao>Pode-se afirmar que o mini-implante helicoidal apresentou o menor desempenho entre os modelos avaliados, enquanto o intra-lock e rosqueado podem ser considerados comparáveis quanto a estabilidade primária.</Conclusao>
+>     <Apoio>Apoio: Programa de Bolsas de Estudo (USP) - 1527</Apoio>
+>   </Resumo>
+>   <Resumo>
+761c811
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+771c821
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+781c831
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+791c841
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+801c851
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+821c871
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+841c891
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+851c901
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+871c921
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+891c941
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+911c961
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+921c971
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+941c991
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+952d1001
+< 
+962c1011
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+982c1031
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1002c1051
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1032c1081
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1052c1101
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1082c1131
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1122c1171
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1132c1181
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1152c1201
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1162c1211
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1182c1231
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1202c1251
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1212c1261
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1222c1271
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1232c1281
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1252c1301
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1272c1321
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1282c1331
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1292c1341
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1302c1351,1361
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+>   </Resumo>
+>   <Resumo>
+>     <Sigla>PI0143</Sigla>
+>     <Titulo>Alterações Bucais Induzidas por Transtornos Alimentares: Revisão de Literatura</Titulo>
+>     <Autores> Wilke IP*, Santos YR, Lima LS, Morais JA, Almeida AAA, Silva EMM, Borges TS</Autores>
+>     <Universidade>Saúde Coletiva - UNIVERSIDADE LUTERANA DO BRASIL.</Universidade>
+>     <Email>isabellapwilke@gmail.com</Email>
+>     <Resumo>O transtorno alimentar (TA) é uma alteração psicológica que define padrões e comportamentos alimentares que afetam diretamente na saúde psíquica e física do indivíduo. A bulimia e anorexia nervosa englobam as principais patologias relacionadas aos TA que resultam em diversas manifestações clínicas bucais. A pesquisa bibliográfica foi realizada nas bases de dados Pubmed, Scielo, Lilacs e Google Acadêmico, utilizando-se como estratégia de busca a associação dos descritores "anorexia", "bulimia", "alterações bucais" e "transtornos alimentares". Foram selecionados os artigos publicados nos idiomas português e inglês entre 2014 e 2019. Para a seleção, considerou-se a relevância e a relação dos artigos com o tema através da análise do título e resumo e/ou do texto. Foram encontrados 17.409 referências, resultando em uma seleção final de 18 artigos. Em 9 foi relatado que pacientes com TA possuem mais chances de desenvolver biocorrosão e o sexo feminino foi citado em 7 artigos como mais suscetível a desenvolver tais alterações, e 4 artigos concluíram que não existe relação aparente entre TA e a cárie dentária. Entretanto, 5 artigos não apresentaram resultados e/ou conclusões precisas.</Resumo>
+>     <Conclusao>Conclui-se que os TA causam alterações bucais, sendo o principal a biocorrosão, e o sexo feminino é o mais afetado e que não existe relação entre TA e a cárie dental. Entretanto, sugere-se que mais estudos sejam realizados para investigação das alterações bucais associadas aos TA, contribuindo com um melhor entendimento dessa relação com objetivo de prevenir comportamentos de risco.</Conclusao>
+>     <Apoio/>
+1312c1371
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1322c1381
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1323a1383
+> 
+1362c1422
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1392c1452
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1402c1462
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1422c1482
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1452c1512
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1462c1522
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1472c1532
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1482c1542
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1492c1552
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1502c1562
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1512c1572
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1522c1582
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1544a1605,1614
+>     <Sigla>PI0169</Sigla>
+>     <Titulo>Avaliação de um sistema de pictogramas para ensino do diagnóstico e gerenciamento de dados em endodontia</Titulo>
+>     <Autores> Gagliardi CF*, Abu-Hasna A, Pinto ABA, Carvalho CAT, Ferrari CH</Autores>
+>     <Universidade>Odontlogia Restauradora - INSTITUTO DE CIÊNCIA E TECNOLOGIA / ICT-UNESP-SJC.</Universidade>
+>     <Email>Carolina.gagliardi97@gmail.com</Email>
+>     <Resumo>Os alunos de endodontia frequentemente deparam-se com certa dificuldade no entendimento do diagnóstico das diferentes patologias de origem pulpar e a utilização de métodos alternativos pode ser de valia para tal. O objetivo do presente trabalho foi de avaliar a aprovação de um sistema de pictogramas para ensino de diagnóstico endodôntico, pelos alunos de graduação e pós-graduação, comparando-os com o método convencional. Um questionário foi entregue a 166 alunos de graduação (G) e 58 alunos de pós-graduação em endodontia (PG), para avaliação do sistema, após devida explanação a respeito do seu funcionamento. As perguntas foram: se prefere o método apresentado e se o usaria para anotação em fichas depois de finalizado o curso. Os resultados mostraram que houve uma preferência pelo método alternativo por cerca de 71% (G) e 62% (PG), e porcentagem de interesse na utilização de 60% (G) e 51% (PG).</Resumo>
+>     <Conclusao>Concluiu-se, portanto, que o sistema foi aprovado pelos alunos de endodontia e pode ser sugerido como alternativa aos métodos convencionais de diagnostico e anamnese, tanto para ensino, como para gerenciamento de dados clínicos.</Conclusao>
+>     <Apoio/>
+>   </Resumo>
+>   <Resumo>
+1562c1632
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1592c1662,1682
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+>   </Resumo>
+>   <Resumo>
+>     <Sigla>PI0175</Sigla>
+>     <Titulo>Influência da ativação ultrassônica na capacidade de remoção de smear layer de diferentes irrigantes finais - estudo in vitro</Titulo>
+>     <Autores> Tissiani L*, Broch GM, Palhano HS, Cecchin D, Souza MA</Autores>
+>     <Universidade>Odontologia Restauradora - UNIVERSIDADE DE PASSO FUNDO.</Universidade>
+>     <Email>144972@upf.br</Email>
+>     <Resumo>O objetivo deste estudo foi avaliar a influência da ativação ultrassônica (US) na capacidade de remoção de smear layer de diferentes irrigantes finais. Setenta dentes humanos extraídos unirradiculares foram utilizados e a porção coronária foi seccionada, de forma que a raiz remanescente apresentasse um comprimento de 15 mm. Os canais radiculares foram preparados com o sistema rotatório Pro-Taper até a lima F3 para produção de smear layer, utilizando água destilada como substância química auxiliar. Após o preparo, as amostras foram divididas aleatoriamente em 7 grupos (n=10) de acordo com o protocolo de irrigação final: G1: água destilada+US (controle); G2: EDTA 17%; G3: QMix; G4: ácido glicólico 17%; G5: EDTA 17%+US; G6: QMix+US; G7: ácido glicólico 17%+US. Em seguida, as amostras foram submetidas à microscopia eletrônica de varredura, onde foi utilizado um sistema de scores para avaliar a efetividade dos tratamentos propostos nas regiões cervical, média e apical. Os dados foram analisados estatisticamente pelos testes de Kruskal-Wallis e Mann-Whitney U para comparações intergrupos (&amp;#945;=5%). Os resultados mostraram que os grupos 6 e 7 estiveram entre os grupos mais efetivos nos terços cervical e médio, além de serem considerados os grupos mais efetivos no terço apical (p&lt;0,05).</Resumo>
+>     <Conclusao>O uso da ativação ultrassônica aumentou a capacidade de remoção de smear layer dos diferentes irrigantes finais testados nos terços médio e apical.</Conclusao>
+>     <Apoio/>
+>   </Resumo>
+>   <Resumo>
+>     <Sigla>PI0176</Sigla>
+>     <Titulo>Efeito da adição de ZnO nanoparticulado nas propriedades físico-químicas de um cimento à base de aluminato de cálcio</Titulo>
+>     <Autores> Amaral TS*, Nomura LH, Rosa AF, Duque TM, Garcia LFR, Schuldt DPV, Bortoluzzi EA, Teixeira CS</Autores>
+>     <Universidade>Odontologia - UNIVERSIDADE FEDERAL DE SANTA CATARINA.</Universidade>
+>     <Email>thuany.schmitz@hotmail.com</Email>
+>     <Resumo>Este trabalho avaliou os efeitos da adição de nanopartículas de ZnO (ZnO-nano) à um cimento à base de aluminato de cálcio, quanto ao tempo de presa (TP), estabilidade dimensional (ALT), solubilidade (SOL), resistência à compressão (RC) e potencial hidrogeniônico (PH). O cimento EndoBinder (1g) foi manipulado com água destilada (0,210 ml) e acrescido de óxido de zinco (ZnO) e ZnO-nano a saber: G1 (Controle, 20% ZnO), G2 (15% ZnO + 5% ZnO-nano), G3 (12% ZnO + 3% ZnO-nano), G4 (10% ZnO e 5% ZnO-nano). O tempo de presa (TP) foi medido com agulha Gilmore de acordo com a norma ANSI/ADA 57/2012. Os testes de ALT, SOL, RC seguiram metodologia de Carvalho-Júnior et al., 2007. Para a ALT e RC, os corpos de prova foram avaliados após 24 h, e para a SOL, anéis de teflon foram preenchidos com cimento e pesados hidratados e desidratados, após 24 h e 7 dias. A medição do pH foi realizada na água onde os espécimes foram armazenados para o teste ALT. Na análise estatística (ANOVA e Tukey, &amp;#945; = 0,05), quando comparados ao G1, os grupos com ZnO-nano tiveram redução significativa no TP (p &lt; 0,05) e menores valores (p &lt; 0,05) de ALT, com destaque para G4. Para todos os grupos, o pH da solução elevou-se, em média, 5 pontos em relação ao pH da água, ficando entre 9,78 (G3) e 11,07 (G4) após 07 dias, sem diferenças significativas entre os grupos (p &gt; 0,05). A RC foi maior para o G4 e diferiu dos demais grupos (p &lt; 0,05) com menores valores para o G1. A SOL não apresentou diferença significativa entre os grupos (p &gt; 0,05)</Resumo>
+>     <Conclusao>A adição de ZnO-nano diminuiu o TP, reduziu os percentuais de ALT e aumentou a RC do cimento Endobinder.</Conclusao>
+>     <Apoio/>
+1602c1692
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1612c1702
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1622c1712
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1632c1722
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1642c1732
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1662c1752
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1672c1762
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1682c1772
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1742c1832
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1752c1842
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1762c1852
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1772c1862
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1792c1882
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1842c1932
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1860c1950,1952
+< 		<Resumo>Analisar in vitro a energia livre de superfície (gs) no esmalte dentário após o tratamento com diferentes concentrações de Trimetafosfato de sódio (TMP), exposto ou não a solução contendo cálcio (Ca) e fosfato (PO4), assim como determinar a adsorção de TMP, Ca e PO4 ao esmalte dentário. Método: Blocos de esmalte bovino (n=192; 24 blocos/grupo) planificados e polidos foram tratados (2 mL/bloco/2 minutos) com TMP (0, 1, 3 e 9%), expostos ou não a solução contendo Ca/PO4 TMP, Ca e PO4 foram analisados nas soluções antes e após o tratamento para calcular a adsorção ao esmalte. A gs, os componentes apolar (gsLW) e polar (gsAB), e ácido/base (gs+/gs-) foram calculados pelo ângulo de contato de três líquidos sondas (água, diiodometano e etilenoglicol). Os dados foram submetidos à ANOVA seguido pelo teste Student-Newman-Keuls (p&lt;0,05). Resultados: A adsorção de TMP foi dose-dependente (p&lt;0,001) e reduziu a gs e gsAB, e aumentou a gs-, quando comparado ao grupo sem TMP (p&lt;0,001). A solução contendo Ca/PO4 aumentou a gs (p&lt;0,050) e a gsAB (p&lt;0,001) e reduziu a gs- (p&lt;0,001). Houve correlação entre a adsorção de TMP e Ca (r = 0,916; p&lt;0,001) e P (r = 0,899; p&lt;0,001) ao esmalte.
+---
+>     <Resumo>
+>       Analisar in vitro a energia livre de superfície (gs) no esmalte dentário após o tratamento com diferentes concentrações de Trimetafosfato de sódio (TMP), exposto ou não a solução contendo cálcio (Ca) e fosfato (PO4), assim como determinar a adsorção de TMP, Ca e PO4 ao esmalte dentário. Método: Blocos de esmalte bovino (n=192; 24 blocos/grupo) planificados e polidos foram tratados (2 mL/bloco/2 minutos) com TMP (0, 1, 3 e 9%), expostos ou não a solução contendo Ca/PO4 TMP, Ca e PO4 foram analisados nas soluções antes e após o tratamento para calcular a adsorção ao esmalte. A gs, os componentes apolar (gsLW) e polar (gsAB), e ácido/base (gs+/gs-) foram calculados pelo ângulo de contato de três líquidos sondas (água, diiodometano e etilenoglicol). Os dados foram submetidos à ANOVA seguido pelo teste Student-Newman-Keuls (p&lt;0,05). Resultados: A adsorção de TMP foi dose-dependente (p&lt;0,001) e reduziu a gs e gsAB, e aumentou a gs-, quando comparado ao grupo sem TMP (p&lt;0,001). A solução contendo Ca/PO4 aumentou a gs (p&lt;0,050) e a gsAB (p&lt;0,001) e reduziu a gs- (p&lt;0,001). Houve correlação entre a adsorção de TMP e Ca (r = 0,916; p&lt;0,001) e P (r = 0,899; p&lt;0,001) ao esmalte.
+> 
+1862c1954,1956
+< 		<Conclusao>O tratamento com TMP aumentou os sítios doadores de elétrons (gs-) e diminuiu a gs do esmalte favorecendo maior adsorção de cálcio e fosfato à superfície do esmalte.
+---
+>     <Conclusao>
+>       O tratamento com TMP aumentou os sítios doadores de elétrons (gs-) e diminuiu a gs do esmalte favorecendo maior adsorção de cálcio e fosfato à superfície do esmalte.
+> 
+1884c1978
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1924c2018
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1934c2028
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1944c2038
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1954c2048
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1964c2058
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1974c2068
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+1994c2088
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2004c2098
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2024c2118
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2034c2128
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2054c2148
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2084c2178,2188
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+>   </Resumo>
+>   <Resumo>
+>     <Sigla>PI0228</Sigla>
+>     <Titulo>Influência do nível de bateria e da distância da fonte sobre a intensidade de luz emitida por aparelhos fotopolimerizadores</Titulo>
+>     <Autores> Oliveira AKC*, Ribeiro RAO, Melo LSA, Nascimento ABL, Teixeira HM, Guimarães RP</Autores>
+>     <Universidade>Prótese e Cirurgia Bucomaxilofacial -  UNIVERSIDADE FEDERAL DE PERNAMBUCO - FACULDADE DE ODONTOLOGIA.</Universidade>
+>     <Email>amandacunhaoliv@gmail.com</Email>
+>     <Resumo>O objetivo deste estudo foi analisar a influência do nível de bateria e da distância da fonte sobre a intensidade de luz dos aparelhos fotopolimerizadores. Foram analisados 11 fotopolimerizadores Optilight Max - Gnatus utilizados nas clínicas escola de uma instituição pública na cidade do Recife. Inicialmente foi observado que os aparelhos realizavam um total aproximado de 310 ciclos de polimerização de 20 segundos no modo constante, dessa forma, 155 ciclos eram necessários para atingir 50% do nível de bateria. Em seguida, foram realizadas as aferições da intensidade de luz emitida pelos aparelhos em 100% e 50% do nível de bateria nas distâncias de D1: 0mm; D2: 2mm; D3: 4mm; D4: 6mm e D5: 8mm, padronizadas por uma matriz de acrílico. Através dos resultados foi possível observar a diminuição da intensidade de luz de aproximadamente 24,09% quando o aparelho estava com sua bateria em 50%, além disso, foi observado a diminuição gradual da intensidade de luz com a variação da distância da ponta do aparelho até o radiômetro. Essa diminuição variou de 49,15% até 76,99% com nível de bateria em 100% e 49,67% até 78,15% com nível de bateria em 50%.</Resumo>
+>     <Conclusao>Através deste estudo observou-se que o nível de bateria e a distância até o sensor do radiômetro influenciou a intensidade de luz emitida por aparelhos fotopolimerizadores, o que pode comprometer o grau de conversão polimérica dos materiais restauradores.</Conclusao>
+>     <Apoio/>
+2092a2197
+> 
+2104c2209
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2124c2229
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2134c2239
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2144c2249
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2154c2259
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2164c2269
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2174c2279
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2184c2289
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2194c2299
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2204c2309
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2234c2339
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2244c2349
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2254c2359
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2274c2379
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2284c2389
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2304c2409
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2334c2439
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2344c2449
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2354c2459
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2384c2489
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2404c2509
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2414c2519
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2444c2549
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2454c2559
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2464c2569
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2484c2589
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2494c2599
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2504c2609
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2505a2611,2612
+> 
+> 
+2514c2621
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2564c2671
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2584c2691
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2594c2701
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2604c2711
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2614c2721
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2624c2731
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2634c2741
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2664c2771
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2674c2781,2791
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+>   </Resumo>
+>   <Resumo>
+>     <Sigla>PI0290</Sigla>
+>     <Titulo>Resíduos de Serviços de Saúde-conhecimento de estudantes de odontologia</Titulo>
+>     <Autores> Machado GD*, Freitas FCN, Freitas PLA, Andrade MV, Silveira RG, Campello AF, Brum SC</Autores>
+>     <Universidade>UNIVERSIDADE IGUACU.</Universidade>
+>     <Email>gabriellydobroski@ig.com.br</Email>
+>     <Resumo>É de extrema importância que o cirurgião-dentista tenha conhecimento quanto aos resíduos de serviços de saúde-RSS. A Agência Nacional de Vigilância Sanitária - ANVISA, e o Conselho Nacional do Meio Ambiente - CONAMA, são os órgãos responsáveis por orientar, regular, definir regras e fiscalizar. O objetivo deste estudo foi identificar o grau de conhecimento de estudantes de odontologia quanto à produção, manejo e implicações ambientais dos resíduos relacionados ao ambiente odontológico. Num universo de 400 estudantes a amostra foi composta de 100 participantes. Optou-se por estudo exploratório transversal com características quanti/qualitativas, Os dados foram obtidos por meio de aplicação de questionários pré-testados, contendo 2 perguntas abertas e 11 fechadas todas com espaço para considerações que os participantes desejassem fazer, respondidos de forma anônima. Tal formato objetivou alcançar total liberdade de resposta aos participantes sem a possibilidade de identificação, refletindo em maior confiabilidade dos resultados. Percebeu-se que o assunto merece atenção já que apesar de 70%(70) responderem positivamente quanto ao conhecimento, 62%(62) dos participantes não souberam identificar os grupos adequadamente, enquanto número ainda maior 86%(86) não identificaram o que é o plano de gerenciamento. Dos participantes 90%(90) acham necessário ampliar o conhecimento do assunto antes da entrada no mercado de trabalho.</Resumo>
+>     <Conclusao>Conclui-se que o tema Resíduos de Serviços de Saúde deve ser introduzido e/ou expandido nos cursos de graduação em odontologia.</Conclusao>
+>     <Apoio>Apoio: universidade iguaçu</Apoio>
+2684c2801
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2704c2821
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2723c2840,2842
+< O objetivo deste estudo transversal foi analisar as teleconsultorias odontológicas na área de Odontopediatria do Telessaúde Brasil Redes, Núcleos Minas Gerais. Foram avaliadas as teleconsultorias &lt;i&gt;off-line&lt;/i&gt;, extraídas de bancos de dados secundários dos núcleos: Hospital das Clínicas (HC) da Universidade Federal de Minas Gerais (UFMG) e Faculdade de Medicina (FM) da UFMG, durante o período de jul/2015 a jul/2017. As variáveis coletadas foram: núcleo de origem, tipo de dúvida, especialidade odontológica e subárea. Os dados foram analisados descritivamente por meio de frequência e percentis, utilizando o programa SPSS v. 22.0. Foram analisadas 3920 teleconsultorias, sendo 3324 do HC e 596 da FM. A área de Odontopediatria apresentou uma prevalência de dúvidas de 10,3%, com predominância de questões sobre conduta clínica (81,4%). A maioria das dúvidas foi sobre prevenção (16,6%), seguida por cirurgia (15,3%), erupção dentária (15,1%), endodontia (12,1%), hábitos deletérios (9,7%), cooperação do paciente (8,7%), trauma de dentes decíduos (7,2%), dentística (6,7%), mais de uma dúvida (5,2%) e semiologia (3,5%).</Resumo>
+---
+>       
+> O objetivo deste estudo transversal foi analisar as teleconsultorias odontológicas na área de Odontopediatria do Telessaúde Brasil Redes, Núcleos Minas Gerais. Foram avaliadas as teleconsultorias &lt;i&gt;off-line&lt;/i&gt;, extraídas de bancos de dados secundários dos núcleos: Hospital das Clínicas (HC) da Universidade Federal de Minas Gerais (UFMG) e Faculdade de Medicina (FM) da UFMG, durante o período de jul/2015 a jul/2017. As variáveis coletadas foram: núcleo de origem, tipo de dúvida, especialidade odontológica e subárea. Os dados foram analisados descritivamente por meio de frequência e percentis, utilizando o programa SPSS v. 22.0. Foram analisadas 3920 teleconsultorias, sendo 3324 do HC e 596 da FM. A área de Odontopediatria apresentou uma prevalência de dúvidas de 10,3%, com predominância de questões sobre conduta clínica (81,4%). A maioria das dúvidas foi sobre prevenção (16,6%), seguida por cirurgia (15,3%), erupção dentária (15,1%), endodontia (12,1%), hábitos deletérios (9,7%), cooperação do paciente (8,7%), trauma de dentes decíduos (7,2%), dentística (6,7%), mais de uma dúvida (5,2%) e semiologia (3,5%).
+>     </Resumo>
+2725c2844
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2735c2854
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2745c2864
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2755c2874
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2775c2894
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2805c2924
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2815c2934
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2825c2944
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2845c2964
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2865c2984
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2885c3004
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2897a3017,3026
+>     <Sigla>PI0314</Sigla>
+>     <Titulo>Avaliação estrutural do osso alveolar de ratos expostos ao cloreto de mercúrio</Titulo>
+>     <Autores> Monteiro DS*, Chemelo VS, Nunes PBOB, Angélica RS, Lima RR</Autores>
+>     <Universidade>UNIVERSIDADE FEDERAL DO PARÁ.</Universidade>
+>     <Email>deiweson.monteiro@gmail.com</Email>
+>     <Resumo>Este estudo objetivou avaliar os efeitos no osso alveolar de ratos expostos ao cloreto de mercúrio (HgCl2), analisando parâmetros microtomográficos, morfométricos e do conteúdo mineral. 14 animais foram divididos em grupo controle e exposto. O exposto recebeu 0.375 mg/Kg/dia de HgCl2 durante 45 dias. O sangue foi coletado para avaliação dos níveis de Hg circulante no organismo. As mandíbulas foram coletadas e divididas em hemimandíbulas, sendo uma destinada à microtomografia (MCT) (Skyscan 1172), delineando a região do ápice das raízes do 1º molar até o teto da furca como a área para obtenção de valores como porcentagem de tecido ósseo, número de trabéculas e espaços inter-trabeculares. A outra foi para análise morfométrica (AM) entre a crista óssea alveolar e a junção amelocementária como indicativo de perda óssea, através de fotos obtidas por câmera acoplada ao estereomicroscópio (Discovery V8 Zeiss) e posterior análise do osso alveolar pela Difração de Raio X e Espectroscopia no Infravermelho por Transformada de Fourier (FTIR-ATR). Os dados da MCT e da AM foram analisados pelo teste t-Student (p&lt;0.05), enquanto os outros por análise qualitativa. Os resultados evidenciaram que não houve alteração na cristalinidade da hidroxiapatita da estrutura óssea dos animais expostos. Nas análises de perda óssea, houve diferença estatística entre os grupos, como alterações nas trabéculas. A espectroscopia no infravermelho mostrou espectros compatíveis com a exposição ao metal.</Resumo>
+>     <Conclusao>Conclui-se que a exposição ao HgCl2 promove alterações estruturais no osso alveolar de ratos.</Conclusao>
+>     <Apoio/>
+>   </Resumo>
+>   <Resumo>
+2905c3034
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2975c3104
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+2985c3114
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3005c3134
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3045c3174
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3055c3184
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3065c3194
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3075c3204
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3087a3217,3226
+>     <Sigla>PI0334</Sigla>
+>     <Titulo>Correlação entre a centralização de canais e raízes mesiais de molares inferiores</Titulo>
+>     <Autores> Campiol V*, Amorim CA, Provenzano JC, Marceliano-Alves MFV, Alves FRF, Rodrigues SLS, Gomes ILL, Neves AA</Autores>
+>     <Universidade>UNIVERSIDADE IGUACU.</Universidade>
+>     <Email>vanessacampiol@gmail.com</Email>
+>     <Resumo>O objetivo desse estudo in silico foi avaliar a centralização de canais mesiais principais em relação a anatomia externa de suas raízes por meio de microtomografia computadorizada. Foram selecionados 99 data-sets de raízes mesiais, classe IV de Vertucci, de primeiros molares inferiores. Para o cálculo, foram mensurados os eixos x, y e z, permitindo a obtenção do centroide das raízes mesiais e, então, dos canais mésio-vestibular (MV) e mésio-lingual (ML). A variação mésio-distal do eixo gravitacional de cada canal foi analisada com relação a raiz em toda a extensão do canal e nos 4 mm apicais. O desvio médio (variação) para o canal todo foi de 0,83 mm (0,02-2,30 mm) e 0,83 mm (0,05-3,99 mm) e para os 4 mm apicais foi de 0,18 mm (0,01 a 1,01) e 0,21 (0,01 a 1,01) para os canais MV e ML, respectivamente. A frequência de desvio para mesial foi de 69% nos canais ML e 57% nos canais MV. Nos 4 mm apicais, 51% dos canais MV estavam desviados para M e 52% dos ML para distal.</Resumo>
+>     <Conclusao>Conclui-se que não existe centralidade entre os canais mesiais e a anatomia externa de suas respectivas raízes em primeiros molares inferiores. O desvio mais expressivo foi para mesial, sendo o canal ML mais frequentemente desviado (69%).</Conclusao>
+>     <Apoio/>
+>   </Resumo>
+>   <Resumo>
+3095c3234,3244
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+>   </Resumo>
+>   <Resumo>
+>     <Sigla>PI0336</Sigla>
+>     <Titulo>Uso do extrato etanólico de punica granatum na terapia fotodinâmica antimicrobiana</Titulo>
+>     <Autores> Lins NAE*, Andrade TI, Souza NMFA, Léo VM, Nascimento TCES, Montalvo GSA, Carneiro VSM, Nascimento PLA</Autores>
+>     <Universidade>Odontologia - CENTRO UNIVERSITÁRIO TABOSA DE ALMEIDA.</Universidade>
+>     <Email>nathalialins13@hotmail.com</Email>
+>     <Resumo>Objetivou-se avaliar potencial fotossensibilizante do extrato etanólico de &lt;i&gt;Punica granatum&lt;/i&gt; na técnica da Terapia Fotodinâmica antimicrobiana (TFDa). Utilizou-se extrato etanólico da casca de &lt;i&gt;P. granatum&lt;/i&gt; foi testado frente &lt;i&gt;Staphylococcus aureus&lt;/i&gt; (ATCC 25923) e &lt;i&gt;Escherichia coli &lt;/i&gt;(ATCC 25922) &lt;i&gt;in vitro&lt;/i&gt;. O extrato foi solubilizado em dimetilsulfóxido e água destilada (1:1 v/v), e diluído para 0,01, 0,55 e 0,10 mg/mL. Empregou-se uma matriz de planejamento fatorial 2&lt;/i&gt;&lt;sup&gt;3&lt;/sup&gt;, com as variáveis independentes: tempo de pré-irradiação, concentração do fotossensibilizante e tempo de irradiação, totalizando 12 ensaios. Nas etapas de irradiação, utilizou-se laser vermelho InGaAlP (Flash Lase I, DMC). O conteúdo dos poços da placa 96 poços foi inoculado em Agar Mu&amp;#776;eller Hinton, incubado (37 ºC/24h) e contabilizadas as Unidades Formadoras de Colônia (UFC). Os dados foram analisados no software R, empregando modelo Kruskal-Wallis de comparação não paramétrica de médias para os resultados da &lt;i&gt;E. coli&lt;/i&gt;; e para &lt;i&gt;S. Aureus&lt;/i&gt;, o modelo linear generalizado para distribuição Poisson. No estudo frente &lt;i&gt;E. coli&lt;/i&gt;, os pontos experimentais com menores valores para a variável resposta foram 3, 9 e 4, neles estão as condições mais favoráveis de inibição. Já com &lt;i&gt;&lt;i&gt;&lt;i&gt;S. aureus&lt;/i&gt;&lt;/i&gt;&lt;/i&gt; observou-se que a interação entre tempo de pré-irradiação e tempo de irradiação foi o único coeficiente estatisticamente significativo, determinando aumento ou diminuição de UFC do &lt;i&gt;S. aureus&lt;/i&gt;.</Resumo>
+>     <Conclusao>&lt;i&gt;P. granatum&lt;/i&gt; exibiu potencial fotossensibilizante na TFDa em diferentes concentrações, frente dois micro-organismos de importância médica.</Conclusao>
+>     <Apoio/>
+3105c3254
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3145c3294
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3155c3304
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3195c3344
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3205c3354
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3215c3364
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3225c3374
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3245c3394
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3305c3454
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3315c3464
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3325c3474
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3335c3484
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3345c3494
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3365c3514
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3385c3534
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3405c3554
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3415c3564
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3425c3574
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3445c3594
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3455c3604
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3475c3624
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3485c3634
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3495c3644
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3515c3664
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3545c3694
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3555c3704
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3575c3724
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3605c3754
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3625c3774
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3657a3807,3816
+>     <Sigla>PI0394</Sigla>
+>     <Titulo>Influência de sucos industrializados de consumo infantil na rugosidade de superfície de resinas compostas</Titulo>
+>     <Autores> Farinon CB*, Carraro K, Rodrigues-Junior SA, Agnol MAD</Autores>
+>     <Universidade>Área de Ciências da Saúde - UNIVERSIDADE COMUNITÁRIA DA REGIÃO DE CHAPECÓ.</Universidade>
+>     <Email>camilabfarinon@hotmail.com</Email>
+>     <Resumo>Este estudo verificou a influência de sucos industrializados de consumo infantil na rugosidade de superfície de resinas compostas. Espécimes em forma de disco (10mm de diâmetro x 2mm de altura) das resinas Filtek Z350XT (n=32) e Filtek Bulk Fill (n=32) (3M/ESPE) foram confeccionados e polidos com discos Sof-Lex Pop On (3M/ESPE). Os espécimes foram aleatoriamente distribuídos em 8 grupos experimentais (n=8), de acordo com as substâncias de imersão: saliva artificial (controle negativo) e os sucos de laranja Dell Valle Kapo (pH=2,5), Ades Max (pH=3,6) e Sarandi (pH=2,7). Os espécimes eram imersos por 1 hora/dia nas soluções, durante 60 dias, e mantidos em saliva artificial a 37°C durante as outras 23 horas. A rugosidade de superfície (Ra - µm) foi aferida com um rugosímetro RP-200 (Instrutherm) antes e depois do período de imersão (três leituras paralelas ao longo de 4mm). Os dados foram analisados com ANOVA de três vias e teste de Tukey (&amp;#945;=0,05). Não houve influência do tipo de suco, nem das interações sobre a rugosidade de superfície (p&gt;0,05). Por outro lado, o tipo de resina composta e o tempo influenciaram significativamente a rugosidade de superfície (p&lt;0,001). A resina Bulk Fill (Ra=0,236±0,103) apresentou rugosidade significativamente inferior à Z350XT (Ra=0,398±0,224). Ainda, a rugosidade após a imersão (Ra=0,263±0,190) reduziu significativamente comparada a antes da imersão (Ra=0,371±0,179).</Resumo>
+>     <Conclusao>Os sucos industrializados não influenciaram a rugosidade de superfície das resinas compostas, que foi menor na resina Filtek Bulk Fill e reduziu após a imersão.</Conclusao>
+>     <Apoio/>
+>   </Resumo>
+>   <Resumo>
+3665c3824
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3675c3834
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3705c3864
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3715c3874
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3725c3884
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3745c3904
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3755c3914
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3775c3934
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3795c3954
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3825c3984
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3835c3994
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3845c4004
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3855c4014
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3875c4034
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3885c4044
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3925c4084,4094
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+>   </Resumo>
+>   <Resumo>
+>     <Sigla>PI0423</Sigla>
+>     <Titulo>Avaliação da condição bucal em atletas de alto nível: estudo clínico transversal</Titulo>
+>     <Autores> Whately VA*, Carvalho JB, Sani Neto J, Penna LAP, Brandt WC, Bussadori SK, Roman-Torres CVG</Autores>
+>     <Universidade>Odontologia - UNIVERSIDADE METROPOLITANA DE SANTOS.</Universidade>
+>     <Email>whatefx@gmail.com</Email>
+>     <Resumo>Processos inflamatórios e/ou infecciosos como doença periodontal, caries, ou ainda problemas articulares como disfunção da articulação temporo mandibular podem afetar o rendimento ou prejudicar a participação em treinamentos e competições. O acúmulo de biofilme promove o aumento de citocinas pró inflamatórias que presentes em altas concentrações podem influenciar quadros de fadiga e dificuldade de recuperação de lesões. O objetivo do presente estudo clínico transversal foi avaliar o comportamento de atletas com relação a higiene bucal. Foram avaliados 54 atletas e divididos em dois grupos: de modalidades aeróbicas (AR) e anaeróbicas (AN). Por meio de anamnese detalhada foram verificadas as formas de higiene bucal diária, a presença ou não de sangramento, dores ou problemas na articulação temporo mandibular e forma de respiração e visitas ao dentista. Os resultados mostraram que o grupo AR apresentou 65,5% dos atletas com sangramento gengival enquanto no grupo AN foi de 60%, com relação a respiração ser de forma bucal 31,1% do grupo AR contra 20% do grupo AN. Com relação as visitas ao dentista, apenas 20 (37%) foram ao dentista nos últimos 2 anos. Os 34 atletas que não foram ao dentista nos últimos 2 anos não utilizam fio dental diariamente. Com relação aos hábitos de higiene bucal diário 34.5% do grupo AR não utilizam fio dental contra 60% do grupo NA com diferença estatística (p&amp;#8804;0,05).</Resumo>
+>     <Conclusao>Concluímos que orientação de higiene bucal e manutenção frequente com visitas regulares a o dentista são importantes para a realização de uma higiene bucal diária eficiente.</Conclusao>
+>     <Apoio/>
+3945c4114
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3955c4124
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3965c4134
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+3985c4154
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4015c4184
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4047a4217,4226
+>     <Sigla>PI0438</Sigla>
+>     <Titulo>A relação entre o comportamento sedentário e a saúde bucal: uma revisão integrativa</Titulo>
+>     <Autores> Kanezaki RM*, Nascimento TS, Carli AD, Probst LF</Autores>
+>     <Universidade>UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL - FACULDADE DE ODONTOLOGIA.</Universidade>
+>     <Email>renata_mie@hotmail.com</Email>
+>     <Resumo>O presente trabalho teve como objetivo avaliar a associação entre o comportamento sedentário e os principais agravos em saúde bucal por meio de uma revisão integrativa da literatura. Foram realizadas buscas estruturadas nas bases PUBMED, SCOPUS e SCIELO e incluídos estudos que atendessem aos seguintes critérios de inclusão: ser estudo de pesquisa original e avaliar como desfecho a associação entre comportamento sedentário e a saúde bucal. Um formulário eletrônico foi utilizado para extração dos dados sobre autor, ano, população, medidas de avaliação dos desfechos de interesse, principais resultados e conclusões dos autores. Dos 216 estudos identificados nas bases de dados, 12 contemplaram os critérios de inclusão. Destes, 09 apontaram uma associação entre o comportamento sedentário e a saúde bucal, indicando que tal comportamento impacta negativamente na saúde bucal dos indivíduos. Três artigos não relacionaram o sedentarismo como fator de risco para agravos em saúde bucal.</Resumo>
+>     <Conclusao>Embora a maior parte dos estudos aponte para uma possível associação, ainda há necessidade de estudos primários mais bem delineados, prospectivos e com maior tempo de segmento para a confirmação do comportamento sedentário como fator de risco para o desenvolvimento de doenças bucais. Na perspectiva de abordagem odontológica para fatores de risco em comum com doenças sistêmicas, orienta-se que clínicos devem estar atentos ao estilo de vida adotado por seus pacientes com o intuito de orientá-los para escolha de um estilo de vida saudável.</Conclusao>
+>     <Apoio/>
+>   </Resumo>
+>   <Resumo>
+4055c4234
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4065c4244
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4085c4264
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4095c4274
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4105c4284
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4135c4314
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4145c4324
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4155c4334
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4175c4354
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4183d4361
+< 
+4184a4363
+>       
+4185a4365
+> 
+4198c4378
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4210a4391,4400
+>     <Sigla>PI0457</Sigla>
+>     <Titulo>Avaliação clínica de 3 técnicas de preservação alveolar</Titulo>
+>     <Autores> Cocate ALG*, Lima FFB, Francischone CE, Rachid DFC, Sotto-Maior BS, Assis NMSP</Autores>
+>     <Universidade>UNIVERSIDADE FEDERAL DE JUIZ DE FORA.</Universidade>
+>     <Email>algazettacocate@gmail.com</Email>
+>     <Resumo>Planejamento dos implantes osseointegráveis se inicia no momento da exodontia dos elementos comprometidos, realizando-se manobras cirúrgicas de preservação do rebordo alveolar. O objetivo deste estudo foi avaliar quantitativamente e qualitativamente três técnicas de preservação alveolar pós exodontia. Foram selecionados 19 pacientes com indicação de exodontia. Os pacientes foram randomicamente divididos em 3 grupos: Grupo 1: enxerto gengival livre e coágulo sanguíneo. Grupo 2: barreira de polipropileno e coágulo sanguíneo. Grupo 3: matriz mineral de origem óssea bovina e enxerto gengival livre. Foram realizadas duas tomografias, baseline (após a exodontia) e 6 meses após (instalação do implante) para a mensuração da estabilidade dimensional do alvéolo. Na instalação dos implantes, foi coletada uma biópsia óssea e submetida as colorações de hematoxilina e eosina, picrosirius e Goldner. Os resultados demonstraram diferenças nas análises tomográficas lineares na região cervical dos rebordos analisados e no volume quando comparados os grupos 2 e 3, sendo o grupo 3 com menor redução da disponibilidade óssea. Histologicamente houve diferenças nas análises de colágeno e de tecido calcificado entre os grupos 1 e 2, bem como do grupo 2 e 3, sendo o grupo 2 que apresentou colágeno mais organizado, e maior área de tecido ósseo calcificado.</Resumo>
+>     <Conclusao>Diante disso, concluímos que a técnica que apresentou melhor estabilidade dimensional foi aquela aplicada ao grupo 3, no entanto a que apresentou melhor qualidade óssea for aquela aplicada ao grupo 2.</Conclusao>
+>     <Apoio/>
+>   </Resumo>
+>   <Resumo>
+4225d4414
+< 
+4229c4418
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4230a4420,4421
+> 
+> 
+4249c4440
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4279c4470
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4299c4490
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4309c4500
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4329c4520
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4359c4550
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4379c4570
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4389c4580
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4409c4600
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4419c4610
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4449c4640
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4459c4650
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4469c4660
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4489c4680
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4499c4690
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4504d4694
+< 
+4510c4700
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4520c4710
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4530c4720
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4540c4730
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4560c4750
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4570c4760
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4590c4780
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4600c4790
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4630c4820
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4640c4830
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4650c4840
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4670c4860
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4680c4870
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4690c4880
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4710c4900
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4720c4910
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4730c4920
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4740c4930
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4760c4950
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4770c4960
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4795c4985
+< 		<Autores> Silva AF*, Domingos DS, Silva-Júnior R, Mota Júnior SL</Autores>
+---
+>     <Autores> Silva AF*, Domingos DS, -Júnior R S, Mota Júnior SL</Autores>
+4800c4990
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4810c5000
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4830c5020
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4840c5030
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4860c5050
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4880c5070
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4900c5090
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4930c5120
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4942a5133,5142
+>     <Sigla>PI0533</Sigla>
+>     <Titulo>Micro-ondas para esterilização de espécimes de resina acrílica - Avaliação das propriedades físico-mecânicas</Titulo>
+>     <Autores> Frota LV*, Nascimento MV, Garcia BA, Rodrigues NS, Nunes TNB, Negreiros WA, Fiamengui LMSP, Pontes KMF</Autores>
+>     <Universidade>UNIVERSIDADE FEDERAL DO CEARÁ.</Universidade>
+>     <Email>lara_vf@outlook.com</Email>
+>     <Resumo>O objetivo deste estudo foi avaliar os efeitos de diferentes parâmetros de esterilização por irradiação em micro-ondas nas propriedades físico-mecânicas da resina acrílica. Foram confeccionados espécimes de resina acrílica termopolimerizável em dimensões específicas para cada teste executado (n=40): rugosidade de superfície (Ra, µm); microdureza Knoop (kg/mm&lt;sup&gt;2&lt;/sup&gt;), estabilidade dimensional (mm) e resistência flexural (Mpa). A irradiação em micro-ondas ocorreu em tempos de 3 ou 5 minutos, associados a potências de 450W ou 650W, com os espécimes imersos em 250 mL de água destilada. Os dados passaram por análises intragrupos (antes/depois) e intergrupos, com os testes t pareado e &lt;i&gt;one-way&lt;/i&gt; ANOVA (&amp;#945;= 0,05). Não foram constatadas diferenças estatisticamente significativas entre os parâmetros testados (p&gt;0,05) na rugosidade de superfície (0,188µm), estabilidade dimensional (0,033mm) e resistência flexural (56,5Mpa). Na microdureza Knoop, o parâmetro 450W/3 minutos não causou alteração significativa (17kg/mm&lt;sup&gt;2&lt;/sup&gt;; p&gt;0,05), enquanto os outros grupos promoveram redução da microdureza para 16kg/mm&lt;sup&gt;2&lt;/sup&gt; (p=0,03).</Resumo>
+>     <Conclusao>Concluiu-se que a única propriedade alterada com a irradiação em micro-ondas nos parâmetros estudados foi a microdureza Knoop, embora o grupo irradiado com 450W por 3 minutos não tenha apresentado modificações em nenhuma das propriedades testadas.</Conclusao>
+>     <Apoio/>
+>   </Resumo>
+>   <Resumo>
+4950c5150
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4960c5160
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4970c5170
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+4980c5180
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5000c5200
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5010c5210
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5020c5220
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5050c5250
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5080c5280
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5090c5290
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5100c5300
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5110c5310
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5130c5330
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5140c5340
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5150c5350
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5180c5380
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5189c5389,5390
+< 		<Conclusao>Conclui-se que pilares calcináveis apresentam menores valores de torque de afrouxamento que pilares sobrefundidos. Forças oblíquas geram maiores valores de tensão sobre o sistema em comparação às forças axiais. 
+---
+>     <Conclusao>
+>       Conclui-se que pilares calcináveis apresentam menores valores de torque de afrouxamento que pilares sobrefundidos. Forças oblíquas geram maiores valores de tensão sobre o sistema em comparação às forças axiais. 
+5190a5392
+> 
+5192c5394
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5202c5404
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5222c5424
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5232c5434
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5252c5454
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5292c5494
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5302c5504
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5312c5514
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5342c5544
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5352c5554
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5362c5564
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5372c5574
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5422c5624
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5432c5634
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5472c5674
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5482c5684
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5491c5693,5695
+< 		<Conclusao>Conclui-se que devido a maioria dos pacientes dessa UTI estarem intubados, mesmo existindo uma rotina de higienização bucal, há uma dificuldade de higienização da língua e, consequentemente, acúmulo de saburra lingual. Novas estratégias preventivas, protocolos e de condutas clínicas para a higienização lingual nessa UTI devem ser planejadas.
+---
+>     <Conclusao>
+>       Conclui-se que devido a maioria dos pacientes dessa UTI estarem intubados, mesmo existindo uma rotina de higienização bucal, há uma dificuldade de higienização da língua e, consequentemente, acúmulo de saburra lingual. Novas estratégias preventivas, protocolos e de condutas clínicas para a higienização lingual nessa UTI devem ser planejadas.
+> 
+5503c5707
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5513c5717
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5523c5727
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5533c5737
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5543c5747
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5565a5770
+> 
+5585a5791,5800
+>     <Sigla>PI0598</Sigla>
+>     <Titulo>Perfil dos acadêmicos de odontologia em uma faculdade privada de Santa Catarina</Titulo>
+>     <Autores> Almeida AC*, Houw H</Autores>
+>     <Universidade>Saúde - FACULDADE AVANTIS.</Universidade>
+>     <Email>anaavantis@hotmail.com</Email>
+>     <Resumo>A sociedade vive um momento de rápidas transformações, complexas e dinâmicas, a odontologia acompanha e reflete essas tendências. Conhecer o perfil dos estudantes é extremamente relevante, a fim de identificar perceber o reflexo destes fenômenos e uma adaptação do curso em relação às expectativas do graduando. Especificamente o curso de Odontologia, vive em um momento do qual as Instituições de Ensino Superior (IES) devem se adaptar à nova realidade econômica e social do país. Esse estudo trata-se de uma Análise Documental de avaliações aplicadas no ano de 2017/1 pela CPA - Comissão Própria de Avaliação da Faculdade Avantis de Balneário Camboriú, com o objetivo de delinear o perfil dos acadêmicos da Odontologia. Os resultados indicam que a idade média dos entrevistados é de 23,81 anos, com predomínio de Mulheres (71,2%), de Balneário Camboriú/SC (43,9%), vindas de Escolas Particulares (45,5%), Brancas (78,8%), sem deficiências físicas/motores (99,0%) e Empregadas Assalariadas (31,3%). Quanto a expectativas frente ao curso uma parte expressiva dos estudantes busca tanto o "crescimento na carreira profissional" (45,45%), quanto a "melhoria salarial e aquisição de novos conhecimentos" (27,27%). Com os resultados, é possível identificar que o perfil do acadêmico é multifacetado, e defini-lo envolve estudos com maior abrangência.</Resumo>
+>     <Conclusao>Conclui-se que os estudos que visam conhecer o perfil são uma ferramenta importante para as IES se planejarem e reorganizarem o currículo do curso de Odontologia de acordo com a realidade social que o permeia.</Conclusao>
+>     <Apoio/>
+>   </Resumo>
+>   <Resumo>
+5595a5811,5820
+>     <Sigla>PI0600</Sigla>
+>     <Titulo>Análise da resolutividade das equipes de saúde bucal nas unidades básicas da Paraíba em 2018</Titulo>
+>     <Autores> Santos AN*, Barbosa KSP, Araújo MF, Ferreira MAS, Andrade GBN, Lira GNW, Pereira AO, Padilha WWN</Autores>
+>     <Universidade>UNIVERSIDADE FEDERAL DA PARAÍBA.</Universidade>
+>     <Email>andersonnobrega1997@hotmail.com</Email>
+>     <Resumo>O monitoramento de indicadores de saúde bucal é uma prática que contribui para a gestão, o planejamento e a avaliação dos serviços utilizados pela população, bem como de ações e políticas de saúde. Objetivou-se identificar a resolutividade das ações de saúde bucal produzidas pelas equipes de saúde bucal na atenção básica por meio da relação entre tratamentos concluídos (TC) e primeiras consultas odontológicas programáticas (PC). Foi realizado um estudo transversal com abordagem indutiva, procedimento estatístico e técnica de documentação indireta. Do universo de 1.105 unidades básicas de saúde dos municípios do Estado da Paraíba, obteve-se uma amostra de 1.065 unidades que forneceram os dados de produção das equipes de saúde bucal (TC e PC) referentes ao ano de 2018. Os dados foram coletados no site do SIA/SUS e realizada análise descritiva. Foram registrados 300.173 PC e 119.799 TC no ano de 2018. O TC variou de 1 à 1444 e o PC de 1 à 1961. A razão TC/PC média do Estado foi de 0,658. Para as quatro Macrorregionais de saúde, a razão TC/PC média e desvio padrão (DP) foi de 0,87 (±3,3313), 0,35 (±0,412), 0,76 (±2,68), 0,412 (±0,78) para as Macrorregionais I, II, III e IV, respectivamente. Para 117 (10,9%) unidades, o cálculo da razão apresentou inconsistência.</Resumo>
+>     <Conclusao>A razão TC/PC para o Estado foi boa, com grande variabilidade do indicador entre as Macrorregionais. O uso da razão TC/PC foi positivo para o monitoramento do desempenho, entretanto, precisa enfrentar a inconsistência no registro dos dados.</Conclusao>
+>     <Apoio>Apoio: CNPq</Apoio>
+>   </Resumo>
+>   <Resumo>
+5603c5828
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5623c5848
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5643c5868
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5653c5878
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5663c5888
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5673c5898
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5683c5908
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5713c5938
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5723c5948
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5765a5991,6000
+>     <Sigla>PI0619</Sigla>
+>     <Titulo>Potencial de Células-Tronco Mesenquimais Geneticamente Editadas por CRISPR/Cas9 para Sobre-expressar BMP-9 no Reparo de Defeitos Ósseos</Titulo>
+>     <Autores> Leguizamón YMM*, Freitas GP, Lopes HB, Souza ATP, Beloti MM, Rosa AL</Autores>
+>     <Universidade>Cirurgia e Traumatologia Buco Maxilo - UNIVERSIDADE DE SÃO PAULO - RIBEIRÃO PRETO.</Universidade>
+>     <Email>yvana.leguizamon@usp.br</Email>
+>     <Resumo>Nosso grupo de pesquisa mostrou que a terapia celular com injeções locais de células é capaz de induzir o reparo parcial de defeitos de calota de ratos (Freitas et al., Calcif Tissue Int, 101:312-20, 2017) indicando que novas estratégias precisam ser investigadas para se alcançar a completa regeneração. Assim, o objetivo deste estudo foi avaliar o efeito da terapia celular com células modificadas para sobre-expressar proteína morfogenética óssea 9 (BMP-9), que foi escolhida por ser uma das mais osteogênicas. Células-tronco mesenquimais (CTM) da medula óssea de camundongos foram imortalizadas e geneticamente modificadas pela técnica CRISPR/Cas9 para sobre-expressar BMP-9 (CTM-BMP-9). Defeitos ósseos (5-mm de diâmetro) foram criados em calvária de ratos e após 2 semanas receberam injeção local de CTM-BMP-9 ou CTM (5x10&lt;sup&gt;6&lt;/sup&gt; células/50µL de PBS/defeito). Quatro semanas após a injeção, o tecido ósseo formado foi avaliado por microtomografia computadorizada e os dados comparados pelo teste T (n=12, p&lt;0,05). As reconstruções microtomográficas 3D evidenciaram maior formação óssea nos defeitos injetados com CTM-BMP-9, que foi confirmado pelos parâmetros volume ósseo (p=0,006), porcentagem do volume ósseo (p=0,006), superfície óssea (p=0,002) e número trabecular (p=0,002). A espessura trabecular (p=0,001) e a separação trabecular (p=0,034) foram menores nos defeitos injetados com CTM-BMP-9 comparado com CTM.</Resumo>
+>     <Conclusao>Em conclusão, CTM geneticamente editadas para sobre-expressar BMP-9 pela técnica CRISPR-Cas9 tem maior potencial para reparar defeitos ósseos.</Conclusao>
+>     <Apoio>Apoio: FAPESP - 2017/12622-7; 2018/09934-0</Apoio>
+>   </Resumo>
+>   <Resumo>
+5773c6008
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5783c6018
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5805a6041,6050
+>     <Sigla>PI0624</Sigla>
+>     <Titulo>Avaliação da aplicabilidade da identificação humana por meio da rugoscopia palatina</Titulo>
+>     <Autores> Pereira VAC*, Dantas ESAR, Almeida MSC, Lacerda RHW, Costa CHM, Bento PM, Oliveira SCFS, Penha ES</Autores>
+>     <Universidade>Odontologia - UNIVERSIDADE FEDERAL DE CAMPINA GRANDE .</Universidade>
+>     <Email>vinicius_augusto55@hotmail.com</Email>
+>     <Resumo>Avaliou-se a aplicabilidade da identificação humana por meio das rugosidades palatinas. Foi adotado uma abordagem indutiva com procedimento estatístico descritivo e comparativo e técnica de pesquisa por documentação direta em campo. Na primeira fase da pesquisa, as rugosidades palatinas foram avaliadas quanto aos seus aspectos quantitativos, classificadas segundo a metodologia de Carrea e possíveis correlações com algumas variáveis demográficas e lados direito e esquerdo. No segundo momento, verificou-se a aplicabilidade da utilização das rugosidades palatinas por alunos da graduação em Odontologia. Foram observadas que entre os indivíduos avaliados durante a primeira fase a prevalência de rugas no gênero masculino foi o lado esquerdo e no gênero feminino o lado direito, e a avaliação em função de etnia mostrou uma prevalência pelo lado direito entre todas as etnias avaliadas. Os resultados da segunda fase mostraram que os alunos que fizeram a avaliação dos modelos obtiveram um resultado positivo.</Resumo>
+>     <Conclusao>Conclui-se que a avaliação das rugoscopias em relação às variáveis qualitativas, quantitativas, em função de gênero, etnia e idade estabelecidas ainda precisam de um maior estudo, pois os padrões variam de acordo com o avaliador, método e sistema de classificação utilizado. A aplicabilidade da identificação humana utilizando a rugoscopia palatina pelos graduandos teve um resultado positivo, comprovando a eficácia do método.</Conclusao>
+>     <Apoio/>
+>   </Resumo>
+>   <Resumo>
+5823c6068
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5833c6078
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5863c6108
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5873c6118
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5883c6128
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5893c6138
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5903c6148
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5913c6158
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5933c6178
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5943c6188
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5953c6198
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+5973c6218
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6033c6278
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6073c6318
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6091c6336
+< 		<Resumo>Devido a importância do equilíbrio da microbiota comensal no controle de infecções, o potencial de probióticos para a mudança de sua composição e/ou atividade tem sido explorado. Este estudo avaliou a matriz extracelular (MEC) de biofilmes de &lt;i&gt;Candida albicans&lt;/i&gt; resistente a fluconazol em biofilmes mistos com &lt;i&gt;Lactobacillus casei&lt;/i&gt; ou &lt;i&gt;Lactobacillus rhamnosus&lt;/i&gt;. Inóculos de &lt;i&gt;C. albicans&lt;/i&gt; ATCC 96901 (CaR), &lt;i&gt;L. casei&lt;/i&gt; ATCC 4646 (Lc) e &lt;i&gt;L.rhamnosus&lt;/i&gt; ATCC 7469 (Lr) foram feitos na concentração de 10&lt;sup&gt;7&lt;/sup&gt; ufc/mL para formação de biofilmes de 48 h. Os biofilmes foram avaliados através de contagem de colônias (Log&lt;sub&gt;10&lt;/sub&gt;), biomassa total e insolúvel, polissacarídeos solúveis em água (WSP) e em álcali (ASP), DNA extracelular (eDNA) e proteínas. Os dados foram analisados com nível de significância de 5%. O Log&lt;sub&gt;10&lt;/sub&gt; de Lc e de Lr foi reduzido na presença de CaR em biofilme misto (p&amp;#8804;0.046). Biomassas total e insolúvel de CaR são maiores do que as biomassas de Lc (p&amp;#8805;0.004). Biomassas de Lc e CaR são semelhantes em biofilme misto (p&gt;0.05). Em CaR as quantidades de ASP, eDNA e WSP são maiores do que em Lc (p&amp;#8804;0.042), e em biofilme de CaR+Lc essas quantidades são semelhantes a CaR (p&gt;0.005). Biomassas totais de biofilmes simples e mistos de CaR e Lr são similares (p&amp;#8805;0.610), assim como biomassas insolúveis, ASP, WSP e proteínas solúveis e insolúveis (p&amp;#8805;0.200). A quantidade de eDNA em CaR é maior do que em Lr e CaR+Lr (p&amp;##8804;0.040).</Resumo>
+---
+>     <Resumo>Devido a importância do equilíbrio da microbiota comensal no controle de infecções, o potencial de probióticos para a mudança de sua composição e/ou atividade tem sido explorado. Este estudo avaliou a matriz extracelular (MEC) de biofilmes de &lt;i&gt;Candida albicans&lt;/i&gt; resistente a fluconazol em biofilmes mistos com &lt;i&gt;Lactobacillus casei&lt;/i&gt; ou &lt;i&gt;Lactobacillus rhamnosus&lt;/i&gt;. Inóculos de &lt;i&gt;C. albicans&lt;/i&gt; ATCC 96901 (CaR), &lt;i&gt;L. casei&lt;/i&gt; ATCC 4646 (Lc) e &lt;i&gt;L.rhamnosus&lt;/i&gt; ATCC 7469 (Lr) foram feitos na concentração de 10&lt;sup&gt;7&lt;/sup&gt; ufc/mL para formação de biofilmes de 48 h. Os biofilmes foram avaliados através de contagem de colônias (Log&lt;sub&gt;10&lt;/sub&gt;), biomassa total e insolúvel, polissacarídeos solúveis em água (WSP) e em álcali (ASP), DNA extracelular (eDNA) e proteínas. Os dados foram analisados com nível de significância de 5%. O Log&lt;sub&gt;10&lt;/sub&gt; de Lc e de Lr foi reduzido na presença de CaR em biofilme misto (p&amp;#8804;0.046). Biomassas total e insolúvel de CaR são maiores do que as biomassas de Lc (p&amp;#8805;0.004). Biomassas de Lc e CaR são semelhantes em biofilme misto (p&gt;0.05). Em CaR as quantidades de ASP, eDNA e WSP são maiores do que em Lc (p&amp;#8804;0.042), e em biofilme de CaR+Lc essas quantidades são semelhantes a CaR (p&gt;0.005). Biomassas totais de biofilmes simples e mistos de CaR e Lr são similares (p&amp;#8805;0.610), assim como biomassas insolúveis, ASP, WSP e proteínas solúveis e insolúveis (p&amp;#8805;0.200). A quantidade de eDNA em CaR é maior do que em Lr e CaR+Lr (p&amp;#8804;0.040).</Resumo>
+6133c6378
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6153c6398
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6163c6408
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6173c6418
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6183c6428
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6193c6438
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6201c6446
+< 		<Resumo>O presente estudo objetivou avaliar a simetria bilateral de lesões cariosas em pacientes infantis de 3 a 14 anos. Avaliou-se prontuários clínicos de pacientes em atendimento na clínica de Odontopediatria I da Faculdade de Odontologia -UERJ de 3 a 14 anos no período entre 2016 e 2019. Foram incluídos pacientes com lesões cariosas e sistemicamente saudáveis. Foi utilizado índice ceod/CPOD modificado para avaliação de cárie e de O'Leary para biofilme. Os resultados foram tabulados e analisados descritivamente e pelo teste do Qui-quadrado, adotando-se p &lt; 0,05 (SPSS 20.0, IL, Chicago, USA). De 565 prontuários avaliados, 206 preencheram os critérios de elegibilidade. A média de idade foi de 8,28 ± 1,62 anos, sendo 51% do gênero feminino, o ceod/CPOD médio foi de 4,45 ± 3,61 e o índice de biofilme de 27,38 %. No arco superior, as maiores incidências de simetria bilateral de cárie ocorreram nos segundos pré-molares e segundos molares decíduos (20,4%) e nos primeiros molares permanentes (17,0%). No arco inferior também se observou maior incidência nos segundos pré-molares e segundos molares decíduos (24,8%) e primeiros molares permanentes (27,7%). Dentre os elementos que apresentaram simetria de lesões cariosas, houve associação entre o nível de higiene e a presença de lesões em todos os segundos molares decíduos superiores e inferiores e no primeiro molar permanente inferior direito (p &lt; 0,05).</Resumo>
+---
+>     <Resumo>O presente estudo objetivou avaliar a simetria bilateral de lesões cariosas em pacientes infantis de 3 a 14 anos. Avaliou-se prontuários clínicos de pacientes em atendimento na clínica de Odontopediatria I da Faculdade de Odontologia -UERJ de 3 a 14 anos no período entre 2016 e 2019. Foram incluídos pacientes com lesões cariosas e sistemicamente saudáveis. Foi utilizado índice ceod/CPOD modificado para avaliação de cárie e de O''Leary para biofilme. Os resultados foram tabulados e analisados descritivamente e pelo teste do Qui-quadrado, adotando-se p &lt; 0,05 (SPSS 20.0, IL, Chicago, USA). De 565 prontuários avaliados, 206 preencheram os critérios de elegibilidade. A média de idade foi de 8,28 ± 1,62 anos, sendo 51% do gênero feminino, o ceod/CPOD médio foi de 4,45 ± 3,61 e o índice de biofilme de 27,38 %. No arco superior, as maiores incidências de simetria bilateral de cárie ocorreram nos segundos pré-molares e segundos molares decíduos (20,4%) e nos primeiros molares permanentes (17,0%). No arco inferior também se observou maior incidência nos segundos pré-molares e segundos molares decíduos (24,8%) e primeiros molares permanentes (27,7%). Dentre os elementos que apresentaram simetria de lesões cariosas, houve associação entre o nível de higiene e a presença de lesões em todos os segundos molares decíduos superiores e inferiores e no primeiro molar permanente inferior direito (p &lt; 0,05).</Resumo>
+6213c6458
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6241c6486
+< 		<Resumo>O objetivo desse estudo foi determinar se as percepções estéticas faciais de ortodontistas e leigos correspondem às medidas da análise cefalométrica de Tecidos Moles Faciais de Arnett para posição do lábio e do mento aplicadas em fotografias. Fotografias frontais, do perfil e do sorriso de 100 indivíduos (50 homens e 50 mulheres) foram obtidas e impressas em papel fotográfico. Responderam a um questionário 15 ortodontistas e 15 leigos caracterizando cada fotografia em agradável, aceitável ou desagradável e por meio de um sistema de escore, as mesmas foram classificadas e uma pontuação imputada. As fotografias digitalizadas para o programa de computador AutoCAD, e as grandezas foram obtidas para avaliar a posição dos lábios e do mento. Associações entre a percepção dos avaliadores quanto ao perfil e os dados da norma de Arnett (ACTMF) foram analisadas pelos testes de qui-quadrado, Exato de Fisher e a concordância entre leigos e ortodontistas para as fotografias foram analisadas por Kappa ponderado (p&lt;0,05). Não houve similaridade entre a percepção estética de ortondontistas e dos leigos com as medidas propostas por Arnett para Ls, Li e Pog'. A concordância da opinião dos avaliadores para as fotografias frontais e do perfil variou de muito de leve a moderada, já para as do sorriso apresentou-se moderada e a similaridade da opinião entre os três tipos de fotografias foi pobre.</Resumo>
+---
+>     <Resumo>O objetivo desse estudo foi determinar se as percepções estéticas faciais de ortodontistas e leigos correspondem às medidas da análise cefalométrica de Tecidos Moles Faciais de Arnett para posição do lábio e do mento aplicadas em fotografias. Fotografias frontais, do perfil e do sorriso de 100 indivíduos (50 homens e 50 mulheres) foram obtidas e impressas em papel fotográfico. Responderam a um questionário 15 ortodontistas e 15 leigos caracterizando cada fotografia em agradável, aceitável ou desagradável e por meio de um sistema de escore, as mesmas foram classificadas e uma pontuação imputada. As fotografias digitalizadas para o programa de computador AutoCAD, e as grandezas foram obtidas para avaliar a posição dos lábios e do mento. Associações entre a percepção dos avaliadores quanto ao perfil e os dados da norma de Arnett (ACTMF) foram analisadas pelos testes de qui-quadrado, Exato de Fisher e a concordância entre leigos e ortodontistas para as fotografias foram analisadas por Kappa ponderado (p&lt;0,05). Não houve similaridade entre a percepção estética de ortondontistas e dos leigos com as medidas propostas por Arnett para Ls, Li e Pog''. A concordância da opinião dos avaliadores para as fotografias frontais e do perfil variou de muito de leve a moderada, já para as do sorriso apresentou-se moderada e a similaridade da opinião entre os três tipos de fotografias foi pobre.</Resumo>
+6243c6488
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6253c6498
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6273c6518
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6293c6538
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6303c6548
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6323c6568
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6333c6578
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6353c6598
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6363c6608
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6393c6638
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6413c6658
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6433c6678
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6443c6688
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6473c6718
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6483c6728
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6493c6738
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6503c6748
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6523c6768
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6533c6778
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6543c6788
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6553c6798
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6563c6808
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6570a6816
+> 
+6583c6829
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6593c6839
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6613c6859
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6623c6869
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6633c6879
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6643c6889
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6653c6899
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6693c6939
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6723c6969
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6733c6979
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6743c6989
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6763c7009
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6773c7019
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6783c7029
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6793c7039
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6803c7049
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6823c7069
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6853c7099
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6863c7109
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6873c7119
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6883c7129
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6903c7149
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6908c7154
+< 		<Autores> Oliveira MLL*, Coutinho LA, Tenório-Neto JF, Santos ES</Autores>
+---
+>     <Autores> Oliveira MLL*, Coutinho LA, -Neto JFT, Santos ES</Autores>
+6913c7159
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6933c7179,7189
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+>   </Resumo>
+>   <Resumo>
+>     <Sigla>PI0744</Sigla>
+>     <Titulo>Síndrome de burnout e ideação suicida em estudantes de odontologia</Titulo>
+>     <Autores> Jacomini VFR*, Carli AD</Autores>
+>     <Universidade>Faodo - UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL - FACULDADE DE ODONTOLOGIA.</Universidade>
+>     <Email>victor.macro@icloud.com</Email>
+>     <Resumo>O objetivo desse estudo foi de verificar a ocorrência da síndrome de burnout e sua correlação com ideação suicida em estudantes de odontologia. Dentre os 270 alunos matriculados na Faculdade de Odontologia da Universidade Federal de Mato Grosso do Sul, 246 participaram do estudo. Os dados foram coletados por meio dos instrumentos Copenhagen Burnout Inventory - Student Survey (CBI-SS); Questionário de Auto Relato (SRQ-20) e Questionário Sociodemográfico. A análise estatística foi feita utilizando o programa SPSS v.23. Os dados advindos dos questionários CBI-SS e SRQ-20 foram analisados por meio de segmentação em clusters pré-definidos. As análises inferenciais foram realizadas no nível de significância de 0,05, estabelecendo correlações não-paramétricas por meio do teste de Spearman entre os níveis de burnout e fatores predisponentes do SRQ-20. Verificou-se burnout alto e médio em 22% (n = 54) e 47,3% (n = 116) dos estudantes, respectivamente. Em relação à ideação suicida, observou-se que 16,3% (n = 40) dos alunos apresentaram-na. A correlação entre burnout e ideação suicida foi significativa (rho de Spearman (&amp;#961;) = 0,267; p &lt; 0,0001), evidenciando que, dentre os graduandos em estadiamento alto e médio para burnout, a ideação suicida perfez valores de 31,5% (n = 17) e 17,2% (n = 20) respectivamente. Não houve correlação estatística significativa entre os dados sociodemográficos, tanto para a síndrome de burnout quanto para transtornos mentais menores (SRQ-20).</Resumo>
+>     <Conclusao>Concluiu-se que a frequência da síndrome de burnout foi alta e está correlacionada à ideação suicida.</Conclusao>
+>     <Apoio>Apoio: CNPq - 122647/2018-1</Apoio>
+6943c7199
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6953c7209
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6963c7219
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6983c7239
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+6993c7249
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7013c7269
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7023c7279
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7033c7289
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7053c7309
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7063c7319
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7073c7329
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7083c7339
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7093c7349
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7103c7359
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7123c7379,7380
+< 		<Apoio></Apoio>
+---
+> 
+>     <Apoio/>
+7143c7400
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7153c7410
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7163c7420
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7173c7430
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7203c7460
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7228c7485
+< 		<Autores> Oliveira RF*, Marquiore LF, Souza JVR, Gomes CBS, Araujo MR, Fernandes PHM, Mesquita RA, Diniz IMA</Autores>
+---
+>     <Autores> Oliveira RF*, Marquiore LF, Souza JVR, Gomes CBS, Araújo MR, Fernandes PHM, Mesquita RA, Diniz IMA</Autores>
+7243c7500
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7263c7520
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7273c7530
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7283c7540,7560
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+>   </Resumo>
+>   <Resumo>
+>     <Sigla>PI0781</Sigla>
+>     <Titulo>Influência de diferentes protocolos de irrigação na microdureza dentinária no terço apical</Titulo>
+>     <Autores> Souza CF*, Silva LJM, Lameira IM, Rothbarth CP</Autores>
+>     <Universidade>UNIVERSIDADE FEDERAL DO PARÁ.</Universidade>
+>     <Email>camilaf.souza9@gmail.com</Email>
+>     <Resumo>Os principais objetivos da terapia endodôntica consistem na remoção de tecido orgânico e inorgânico infectado, remoção das bactérias presentes no canal radicular e nos túbulos dentinários e garantir que não haja reinfecção pós-tratamento. Esses objetivos são alcançados por meio da limpeza, desinfecção e remodelação do canal. Neste estudo foram utilizados dentes bovinos, incisivos superiores e inferiores. A escolha dos irrigantes foi feita para comparar o HEPB como agente quelante aos, já consolidados, EDTA 17% e Qmix. A hipótese nula deste estudo foi descartada, pois todas as substâncias levaram a diminuição significativa da microdureza da dentina radicular. Sendo o GMISTURA o grupo que mais sofreu alteração. No presente estudo foi simulada a utilização do agente quelante como lavagem final pelo tempo de 1 minuto. Durante o desenvolvimento da pesquisa foi observado que o GEDTA possui o protocolo de imersão com alto padrão de limpeza, usando com referência estudos prévios. Devido esse fator o GEDTA foi escolhido como o grupo de controle positivo.</Resumo>
+>     <Conclusao>Os resultados relacionados à microdureza dentinária para o GEDTA e GQMIX, que se mostraram semelhantes na redução da microdureza, obteve resultados esperados. O grupo que demonstrou maior redução da microdureza foi o GMISTURA, onde a redução foi significante quando comparada com os resultados dos outros grupos. Esse fator deve ser atribuído ao fato da mistura de HEPB 9% + NaOCl 2,5% ter maior tempo de contato com a dentina, e assim retirando mais íons Ca+, o que pode ter levado a maior alteração da microdureza registrada.</Conclusao>
+>     <Apoio/>
+>   </Resumo>
+>   <Resumo>
+>     <Sigla>PI0782</Sigla>
+>     <Titulo>Sistemas WaveOne Gold e Reciproc Blue no preparo de canais mesiais de molares inferiores: análise em microtomografia computadorizada</Titulo>
+>     <Autores> Rodrigues SLS*, Costa MCC, Campiol V, Alves FRF, Marceliano-Alves MFV, Campello AF, Barreto EOP, Neves AA</Autores>
+>     <Universidade>Odontologia - UNIVERSIDADE IGUACU.</Universidade>
+>     <Email>sabrinalopes327@gmail.com</Email>
+>     <Resumo>O objetivo deste estudo foi comparar o preparo de canais com diferentes sistemas por meio de microtomografia computadorizada (micro-CT). Dezesseis raízes mesiais de molares inferiores classe IV de Vertucci foram selecionadas e avaliadas antes e após o preparo, por meio de micro-CT usando tamanho de voxel isotrópico de 17 &amp;#956;m. Os canais foram preparados com os sistemas Reciproc Blue R25 (n=16) e WaveOne Gold Primary (n=16) alternando o canal de acordo com instrumento na mesma raiz. Os canais foram reconstruídos digitalmente e avaliados quanto ao aumento percentual de volume (mm 3 ), área de superfície (mm 2 ), structuremodel index (SMI) e área não preparada. Os dados foram analisados &amp;#8203;&amp;#8203;estatisticamente usando-se ANOVA e teste t para amostras pareadas (&amp;#945;=5%). Nenhuma diferença estatística foi observada no aumento percentual de volume, na área de superfície e no SMI em relação a Reciproc Blue R25 (127,14 ± 62,18; 29,16 ± 12,25; e 15,21 ± 19,25; respectivamente) eWaveoneGold Primary (125,31 ± 81,45; 31,69 ± 26,58; 17,45 ± 8,9; respectivamente) (p&gt;0,05). Quanto aárea não preparada, foi observado que os sistemas deixaram 39,98% e 37,45% para Reciproc e WaveOne, respectivamente (p&gt;0,05).</Resumo>
+>     <Conclusao>Conclui-se que Reciproc R25 e WaveOne Primary foram equivalentes no preparo de canais mesiais de molares inferiores.</Conclusao>
+>     <Apoio/>
+7313c7590
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7323c7600
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7333c7610
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7343c7620
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7353c7630
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7373c7650
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7383c7660
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7393c7670
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7403c7680
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7413c7690
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7473c7750
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7491c7768,7769
+< 		<Resumo>Biossegurança se dá ao conjunto de ações que tem como objetivo prevenir, eliminar e minimizar os riscos de contaminação de agentes que atuam na área da saúde.
+---
+>     <Resumo>
+>       Biossegurança se dá ao conjunto de ações que tem como objetivo prevenir, eliminar e minimizar os riscos de contaminação de agentes que atuam na área da saúde.
+7512a7791
+> 
+7515c7794
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7525c7804
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7535c7814,7824
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+>   </Resumo>
+>   <Resumo>
+>     <Sigla>PI0806</Sigla>
+>     <Titulo>Eletrocrio-tomografia como ferramenta para avaliar os mecanismos antimicrobianos após Terapia fotodinâmica</Titulo>
+>     <Autores> Nardini EF*, Segundo ASG</Autores>
+>     <Universidade>FACULDADE DE ODONTOLOGIA SÃO LEOPOLDO MANDIC.</Universidade>
+>     <Email>elisafnardini@gmail.com</Email>
+>     <Resumo>A Eletrocrio-tomografia (crio-ET) é uma tecnologia que permite avaliar tridimensionalmente amostras biológicas um estado 'nativo-hidratado' com resolução suficiente para reconhecer complexos macromoleculares &lt;i&gt;in situ&lt;/i&gt;. Esta metodologia tem sido fundamental para fornecer informações sobre a ultraestrutura celular e microbiana. Este estudo utilizou o crio-ET para avaliar o efeito fotodinâmico na viabilidade e arquitetura do envelope de bactérias Gram-negativas. Suspensão bacteriana de &lt;i&gt;E. coli&lt;/i&gt; foram submetidas a tratamento fotodinâmico com solução de azul de metileno (100&amp;#956;M) e um laser de diodo de baixa potência de 100mW emitindo a 660nm com 6 e 18J de energia. Como grupo controle, a suspensão foi submetida a 462 UI/mL penicilina G por 60 minutos a 30°C, para comparar o dano ao envelope bacteriano. Após o tratamento, as bactérias foram congeladas por imersão através das redes EM e cortes tomográficos foram coletados; reconstruções de imagens 3D foram geradas e gravadas. As imagens mostraram descolamento da parede das células bacterianas e estruturas semelhantes a mesossomos. Além disso, alguns locais mostraram interrupções da parede celular se estendendo às membranas interna e externa e degradação envoltório bacteriano, indicando dano severo ao microrganismo.</Resumo>
+>     <Conclusao>A Eletrocrio-tomografia revelou que os efeitos da terapia fotodinâmica em bactérias-negativas foi baseada em danos na membrana externa, parede celular e membrana interna e ocorre de maneira dependente de energia de irradiação</Conclusao>
+>     <Apoio/>
+7555c7844
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7565c7854
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7575c7864
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7587a7877,7886
+>     <Sigla>PI0813</Sigla>
+>     <Titulo>Análise ortodôntica por meio de estudo dos modelos de gesso e tomografia computadorizada de feixe cônico</Titulo>
+>     <Autores> Pinheiro-Neto SM*, Araújo MSM, Vieira RC, Barros VVC, Raitz R, Barreto JOF, Casanovas RC</Autores>
+>     <Universidade>CENTRO UNIVERSITÁRIO UNDB.</Universidade>
+>     <Email>sebastiao.m@outlook.com</Email>
+>     <Resumo>Avaliar medidas ortodônticas no modelo de gesso tradicional e na Tomografia Computadorizada de Feixe Cônico por meio um estudo observacional, quantitativo e analítico. Foram selecionados os 60 modelos de gessos e 60 tomografias computadorizadas de feixe cônico, fornecidos pelo banco de dados da Faculdade de Odontologia São Leopoldo Mandic. Foram analisados, modelos de gesso e TCFC: Discrepância de Bolton, Distância intermolar e Distância Intercanino. Foi utilizado o teste T bilateral para o cálculo amostral, considerou-se a média e desvio-padrão das medidas mesio-distal dos dentes superiores e inferiores entre os grupos com modelo de gesso e com TCFC. Os dados foram processados utilizando os recursos do software SPSS versão 18.0. Foi realizada a estatística descritiva através do cálculo de medidas de frequência, média e desvio-padrão. A normalidade das variáveis quantitativas foi aferida através do teste Lilliefors. O teste T pareado foi selecionado comparar os dados obtidos no modelo de gesso e na tomografia. O coeficiente de correlação intraclasse e intervalo de confiança a 95%, para avaliar a replicabilidade do observador na aferição das variáveis no modelo de gesso ou tomografia. O nível de significância adotado para todas as análises foi de 5%.</Resumo>
+>     <Conclusao>As medidas de concordância foram altas independentes se foram no modelo de gesso ou tomografia; as medidas lineares intercaninos e intermolares foram similares e a discrepância de Bolton realizada na tomografia tende a elevar as medidas, no entanto não apresentaram diferenças estatisticamente significativas.</Conclusao>
+>     <Apoio/>
+>   </Resumo>
+>   <Resumo>
+7595c7894
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7615c7914
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7625c7924
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7635c7934
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7665c7964
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7705c8004
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7725c8024
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7737a8037,8046
+>     <Sigla>PI0830</Sigla>
+>     <Titulo>Avaliação dos estágios de maturação da sutura palatina em pacientes adultos, utilizando tomografia computadorizada de feixe cônico</Titulo>
+>     <Autores> Sousa MLS*, Rego MVNN</Autores>
+>     <Universidade>CENTRO UNIVERSITÁRIO UNINOVAFAPI.</Universidade>
+>     <Email>matheusluciellsousa@hotmail.com</Email>
+>     <Resumo>O presente estudo objetivou classificar os estágios de maturação da sutura palatina mediana em pacientes adultos, utilizando tomografia computadorizada de feixe cônico. A amostra foi constituída por 76 pacientes (40 mulheres e 36 homens), de 18 a 30 anos, com os seguintes critérios de inclusão: tomografia de feixe cônico de crânio completo adquiridas para diagnóstico e planejamento ortodôntico, qualquer tipo de má oclusão ou deformidade esquelética e boa qualidade da imagem. Como a faixa etária dos pacientes envolvia um intervalo grande, esses foram subdivididos em três grupos: Grupo 1- 18 a 21 anos (n=31), Grupo 2 - 22-25 (n=15) e Grupo 3- 26-30 (n=30). A diferença entre os gêneros foi determinada pelo teste Qui-Quadrado (X2), com correção de Yates' (p&lt;0,05) e para estimar as probabilidades de classificar os estágios de maturação, em função da idade, foi utilizada a regressão logística binária. Os resultados evidenciaram que o estágio D(55,26%) foi o mais prevalente na amostra, seguido pelos estágios C(25%), E(25%) e B(6,57%). O estágio A não foi encontrado em nenhum paciente. Em relação à idade, o estágio B apresentou maior probabilidade de ocorrência no Grupo 1 e o estágio E no Grupo 3.</Resumo>
+>     <Conclusao>Pôde-se concluir que não existiu diferença entre os gêneros na classificação dos estágios de maturação da sutura palatina mediana, com pequena probabilidade de ocorrência do estágio B nos pacientes com idade menor e um aumento na probabilidade de aparecimento dos estágios C e E nos pacientes com idade maior. Em todas as idades, o estágio mais provável de ocorrer foi o D.</Conclusao>
+>     <Apoio/>
+>   </Resumo>
+>   <Resumo>
+7745c8054
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7775c8084
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7785c8094
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7795c8104,8114
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+>   </Resumo>
+>   <Resumo>
+>     <Sigla>PI0837</Sigla>
+>     <Titulo>Avaliação da resistência à flexão e localização da fratura de três marcas comerciais de pinos de fibra de vidro</Titulo>
+>     <Autores> Teixeira RC*, Fernandes VS, Ferreira JS, Melo-Silva TCF, Carvalho CF, Araújo FA, Freitas RX, Melo-Silva CL</Autores>
+>     <Universidade>Odontologia - CENTRO DE ENSINO SUPERIOR DA ESCOLA DE ODONTOLOGIA DE VOLTA REDONDA.</Universidade>
+>     <Email>roannadecstro@hotmail.com</Email>
+>     <Resumo>O objetivo deste trabalho foi avaliar a resistência à flexão de três marcas comerciais de pinos de fibra de vidro. Foram adquiridos 10 pinos de número 2, com formato cilíndrico nos terços médio e cervical e cônico no terço apical, Exacto - EP (Ângelus), Fiber Post - FP (Maquira) e Whitepost - WP (FGM). Para o ensaio mecânico, os pinos foram posicionados no centro de um dispositivo para ensaio de resistência a flexão de três pontos, acoplado a uma máquina de ensaio universal Emic DL 2000, com célula de carga de 20Kgf e velocidade de deslocamento de 0,5 mm/min. A força foi aplicada no meio do pino. Os valores de carga, no momento da fratura, foram registrados em Newtons (N) e a resistência flexural (&amp;#963;3P) foi calculada usando-se a fórmula ISO 10477:2004, &amp;#963;3P=8PmaxL/&amp;#960;d3. Os dados obtidos foram analisados estatisticamente por ANOVA e teste de Tukey a 5% de significância. Os resultados mostraram que os maiores valores de resistência à flexão foram obtidos no pino WP (2180 ± 33 MPa), com a fratura ocorrendo no terço apical do pino. O pino EP apresentou valores intermediário (1640 ± 83 MPa) com a marca de fratura observado, tanto no terço apical, quanto no centro do pino. O pino FP apresentou menores valores de resistência a flexão (633 ± 88 MPa), com todas as fraturas ocorrendo na parte central do pino, onde a força foi aplicada.</Resumo>
+>     <Conclusao>Os autores concluíram que o pino WP apresentou maior resistência a flexão que os demais pinos estudados e que a fratura ocorreu na parte cônica do pino, no seu terço apical.</Conclusao>
+>     <Apoio/>
+7805c8124,8134
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+>   </Resumo>
+>   <Resumo>
+>     <Sigla>PI0839</Sigla>
+>     <Titulo>Avaliação através da tomografia por coerência óptica do esmalte dentário após o uso de dentifrícios clareadores</Titulo>
+>     <Autores> Melo LSA*, Rodrigues BAL, Ribeiro RAO, Lins-Filho PC, Menezes-Filho PF, Nascimento ABL, Teixeira HM, Guimarães RP</Autores>
+>     <Universidade>Prótese e Cirurgia Buco -  UNIVERSIDADE FEDERAL DE PERNAMBUCO - FACULDADE DE ODONTOLOGIA.</Universidade>
+>     <Email>leticia.melo41@gmail.com</Email>
+>     <Resumo>Avaliar, através da Tomografia por Coerência Óptica (OCT), o desgaste do esmalte dentário, após o uso de diferentes escovas dentais e materiais utilizados na escovação com componentes abrasivos. Foram confeccionados 50 corpos de prova, distribuídos em 10 grupos (n=5) de acordo com o dentifrício/escova utilizado. Para o grupo A foi utilizado a escova dental Curaprox Adulto Ultra Macia e para o grupo B a escova Dental K - escova adulto macia. Foram utilizados os seguintes materiais para escovação Curaprox Black is White; Colgate Luminous White Instant, Close Up White Attraction - MenSuperpure; Carvão Ativado (P.A.); Água Destilada. As imagens de OCT foram realizadas antes e depois da ciclagem de escovação e as imagens foram comparadas quanto as alterações de superfície. A perda da estrutura superficial foi avaliada através dos métodos qualitativo e quantitativo. Para análise estatística dos dados obtidos foram realizadas as medidas estatísticas: média, desvio padrão, mediana e percentis e foram avaliados inferencialmente através dos testes estatísticos Mann-Whitney, Kruskal-Wallis, com nível de significância de 5%. Por meio da análise dos dados obtidos, observou-se maior índice de perda de estrutura superficial do esmalte nos grupos G2A (16,09) e G2B (11,38). Um menor índice de perda estrutural nos corpos-de-prova correspondentes aos grupos G5A (1,07) e G5B (1,20).</Resumo>
+>     <Conclusao>Através desse estudo observou-se que os dentifrícios clareadores e o Carvão Ativado são capazes de promover um intenso desgaste do esmalte dentário.</Conclusao>
+>     <Apoio/>
+7815c8144
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7845c8174
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7855c8184
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7875c8204
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7895c8224
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7905c8234
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7915c8244
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7925c8254
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7955c8284
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7965c8294
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+7995c8324
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+8005c8334
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+8025c8354
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+8035c8364
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+8055c8384
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+8065c8394
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+8075c8404,8414
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+>   </Resumo>
+>   <Resumo>
+>     <Sigla>PI0867</Sigla>
+>     <Titulo>Avaliação entre a condição bucal e prevalência de problemas oclusais em pacientes com deficiência intelectual de escolas especiais</Titulo>
+>     <Autores> Schossler TL*, Dezanetti JMP, Reis GES, Fanderuff M, Sydney PBH, Pupo YM</Autores>
+>     <Universidade>UNIVERSIDADE FEDERAL DO PARANÁ.</Universidade>
+>     <Email>thabata.schossler@gmail.com</Email>
+>     <Resumo>A saúde bucal das pessoas com deficiência intelectual (DI) é precária no Brasil, tendo em vista que os mesmos apresentam elevados índices de cárie dental, gengivite, periodontopatias e oclusoapatias. A má oclusão é um dos problemas oclusais mais prevalentes nessa população, e segundo estudos, é mais relevante em pacientes com DI do que em indivíduos sem a mesma condição. O objetivo do estudo foi correlacionar o índice de dentes cariados, perdidos e obturados (CPO-D) com a má oclusão em um grupo de 119 estudantes de duas instituições especializadas em Curitiba-PR, além de identificar a prevalência das oclusoapatias dessa população. Foram coletados os dados gerais de saúde e realizado o exame clínico para determinação do Índice CPO-D, bem como para investigar a presença de oclusoapatias. Em relação ao padrão oclusal, 34% dos pacientes apresentaram padrão classe II e 16% classe III, 42% apresentaram padrão facial tipo II ou III e 11% mordida cruzada. O Índice CPO-D mostrou-se muito alto na maioria dos indivíduos (54%), porém não houve significância estatística entre o índice e as oclusoapatias, tendo p = 0.693 em relação ao perfil facial e p = 0.212 em relação ao padrão oclusal.</Resumo>
+>     <Conclusao>Este estudo mostrou que os pacientes com DI apresentam elevado percentual de oclusoapatias evidenciando a importância do cirurgião dentista conhecer e entender a relevância dos problemas oclusais nesta população, onde as funções orais prejudicadas podem complicar a saúde bucal dos mesmos bem como o convívio em sociedade.</Conclusao>
+>     <Apoio/>
+8085c8424
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+8125c8464
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+8134c8473,8475
+< 		<Conclusao>Baseado nos resultados, pode-se afirmar que, em modelo de carcinogênese oral induzida pelo carcinógeno 4NQO, há um alto índice de proliferação celular no CCE.
+---
+>     <Conclusao>
+>       Baseado nos resultados, pode-se afirmar que, em modelo de carcinogênese oral induzida pelo carcinógeno 4NQO, há um alto índice de proliferação celular no CCE.
+> 
+8137c8478
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+8147c8488
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+8167c8508
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+8177c8518
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+8187c8528
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+8197c8538
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+8207c8548
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+8227c8568
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+8247c8588
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+8267c8608
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+8277c8618
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+8297c8638
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+8319a8661,8670
+>     <Sigla>PI0893</Sigla>
+>     <Titulo>Perspectiva e perfil de acadêmicos de odontologia quanto ao futuro</Titulo>
+>     <Autores> Bernardi LA*, Arruda TM, Veber VS, Houw H</Autores>
+>     <Universidade>FACULDADE AVANTIS.</Universidade>
+>     <Email>acostabernardi@hotmail.com</Email>
+>     <Resumo>Este trabalho busca avaliar os valores inerentes à profissão e sua influência na escolha da odontologia como carreira e profissão, dentro de uma análise descritiva e transversal das perspectivas dos acadêmicos de odontologia das primeiras duas fases do curso de graduação da UniAvan. Este estudo foi submetido ao Comitê de Ética em Pesquisa do centro Universitário UniAvan (protocolo CEP-A 0032). A escolha da carreira profissional em odontologia por motivos associados à renda não foi a escolha primordial, o fator decisivo para escolha destes alunos pelo curso foram a identificação pessoal pela odontologia, o fato do curso de graduação na UniAvan ser noturno e a influência familiar. A necessidade por definição de uma especialidade se destacou nas entrevistas semiestruturadas abertas, expondo uma definição precoce entre as principais especialidades, registrando entre as citadas, implantodontia (25%), cirurgia oral menor (19%), odontopediatria (19%), ortodontia(19%), cirurgia bucomaxilofacial (6%), periodontia (6%) e prótese(6%). Referente ao local de atuação 69% dos entrevistados pretendem atuar no Sistema Único de Saúde e consultório particular, e 31% somente em consultório privado.</Resumo>
+>     <Conclusao>Conclui-se que as transformações no ensino em odontologia associadas à dinâmica do mercado de trabalho podem estar estimulando um novo ponto de inflexão nas relações de trabalho, bem como no graduação em si. Expõe-se a necessidade de novos estudos para reavaliar esta possível tendência na odontologia.</Conclusao>
+>     <Apoio/>
+>   </Resumo>
+>   <Resumo>
+8327c8678
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+8337c8688
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+8347c8698
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+8367c8718
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+8377c8728
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+8387c8738
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+8397c8748
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+8407c8758
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+8417c8768
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+8427c8778
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+8447c8798
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+8457c8808
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+8467c8818
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+8487c8838
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+8497c8848
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+8507c8858
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+8517c8868
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+8537c8888
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+8557c8908
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
+8569a8921,8930
+>     <Sigla>PI0919</Sigla>
+>     <Titulo>Avaliação da citotoxicidade de titânio revestido com PLGA e sinvastatina em conectores protéticos biofuncionalizados</Titulo>
+>     <Autores> Chaves AF*, Curtarelli RB, Sordi MB, Cruz ACC, Benfatti CAM</Autores>
+>     <Universidade>Odontologia - UNIVERSIDADE FEDERAL DE SANTA CATARINA.</Universidade>
+>     <Email>amandafchaves@hotmail.com</Email>
+>     <Resumo>O trabalho avaliou a citotoxicidade de 0,6 % sinvastatina (SIN) incorporada em ácido poli-(lático-co-glicólico) (PLGA) revestindo a superfície de titânio (Ti). A citotoxicidade de todos os grupos experimentais foi avaliada em células-tronco derivadas da polpa de dentes decíduos (SHEDs, Curitiba Biotech, Curitiba, Paraná, Brasil) Os testes foram realizados em triplicata nos dias 3 e 7, divididos em grupos: G0 - somente Ti , G1 - Ti+PLGA e G2 - Ti+PLGA+SIN0,6%. A citotoxicidade foi determinada pelo método de MTS. As absorba&amp;#770;ncias foram medidas por espectrofoto&amp;#770;metro (Infinite M200, TECAN, A&amp;#769;ustria GmbH, Gro&amp;#776;dig, A&amp;#769;ustria) a um comprimento de onda de 490 nm ). Por fim, a análise estatística foi realizada usando o programa Graph Pad Software Inc. (La Jolla, Califórnia, EUA). Os resultados dos grupos foram comparados entre si separadamente em cada tempo experimental, por meio de análise não paramétrica de variância (ANOVA) seguida do teste post hoc de Tukey (p &lt;0,05). Todos os grupos apresentaram viabilidade celular superior a 70% nos dias 3 e 7 e assim, nenhum grupo mostrou-se citotóxico para as SHEDs.</Resumo>
+>     <Conclusao>Tendo em vista que o titânio empregado na confecção dos conectores protéticos não apresenta bioatividade, uma das maneiras de se minimizar ou prevenir a perda óssea peri-implantar poderia ser o recobrimentos dos conectores com substâncias osteoindutoras,como por exemplo, a sinvastina,promovendo uma funcionalização desses conectores. Palavras-chave: sinvastatina; PLGA; titânio</Conclusao>
+>     <Apoio/>
+>   </Resumo>
+>   <Resumo>
+8577c8938
+< 		<Apoio></Apoio>
+---
+>     <Apoio/>
