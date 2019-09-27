@@ -23,7 +23,7 @@ Uma primeira revisão automática (comando "etapa3b" no `proc.php`) foi realizad
 Uma segunda revisão automática pode vir a ser realizada após a entrega do pacote completo (com PDF), conforme instruções que vierem a ser negociadas após a "revisão por terceiros".
 
 ## Revisão por terceiros
-Material disponíel (para a revisão por terceiros) em:
+Material disponíel (para a revisão por terceiros) no google-docs:
 * [Planilha dos metadados](https://docs.google.com/spreadsheets/d/1YnJId4oKj4OeGDl3-ifB9dLkICOaNDxttAlHKUxFcsI/)
 * [Conteúdo parte-1](https://docs.google.com/document/d/14u7UfL1mRZKKK0jwzBzInslNE_NLM0C_6D3Kv8mkc6M/edit?usp=sharing)
 * [Conteúdo parte-2](https://docs.google.com/document/d/1M4fK5xc9gUQEO6Sh3xVXyr2iFFaBidbGgs-hIYsBKdo/edit?usp=sharing)
