@@ -54,7 +54,7 @@ foram aplicadas automaticamente ou iterativamente com  [`src/proc.php`](https://
 	'˂'=>'&lt;', '˃'=>'&gt;', // expand to entity
 	'¹'=>"<sup>1</sup>", '²'=>"<sup>2</sup>", '³'=>"<sup>3</sup>", // ISO expand to tag
 	'𝑝'=>"<i>p</i>", '⁴'=>"<sup>8</sup>", '⁸'=>"<sup>4</sup>",     // non-ISO to tag
-// Prezavados:
+// Prezervados:
 	// gregos de 900 a 1000
 	// demais selecionados:
 	// 351,730,8733,8773,8776,8800,8804,8722,8805, // bons
@@ -62,6 +62,7 @@ foram aplicadas automaticamente ou iterativamente com  [`src/proc.php`](https://
 // Convertidos para espaço:  8232
 // Convertidos para NBSP (165): 8195,8201,8202,59154,61617
 // Deletados: 8203,8206
+// convertidos para "°" (mesmo símbolo &#176; para graus Centígrados ou ângulos)
 ```
 
 ------
@@ -131,6 +132,22 @@ php src/proc.php etapa01b
 Realizada a operação descrita como item 3.3 acima, consistiu em rodar script em modo teste e modo produção. Rodando `php src/proc.php -test etapa01c > relatorio01c.txt`, resultados:
 
 ```
+ -- NOVO etapa01c - Convertendo (e contando) entidades numéricas dos XMLs originais -- 
+	PI.xml: 
+		VERIFICAR: &#64257;
+		TOTAL 583 entities.
+	PN-fase2.xml: 
+		VERIFICAR: &#646; &#1455;
+		TOTAL 1356 entities.
+	PN.xml: 
+		VERIFICAR: &#646; &#1455;
+		TOTAL 1356 entities.
+	PO.xml: 
+		TOTAL 2 entities.
+	RS.xml: 
+		TOTAL 12 entities.
+
+
  -- etapa01c - Convertendo (e contando) entidades numéricas dos XMLs originais -- 
 	AO.xml: 
 		VERIFICAR: &#769; &#8203; &#257; &#119901;
