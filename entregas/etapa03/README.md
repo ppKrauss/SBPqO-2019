@@ -33,3 +33,11 @@ Material disponíel (para a revisão por terceiros) em:
 Atenção: **nenhum outro tipo de revisão ou instrução será aceita**, serão acatadas apenas as edições realizadas nos links acima.
 
 Caso durante a revisão sejam notadas demandas por revisões sistemáticas, as mesmas poderão ser negociadas e autimatizadas. A negociação envolve elaboração de instruções precisas e aceitáveis para  o processo de automação e teste.
+
+## Demais correções já realizadas
+
+O histórico completo de alterações realizadas sobre os arquios XML recebidos originais pode ser rastreado a partir das entregas anteriores:
+* [Entrega 01](https://github.com/ppKrauss/SBPqO-2019/tree/master/entregas/etapa01): conversão para UTF8, revisão das tags desbalanceadas, etc.
+* [Entrega 02](https://github.com/ppKrauss/SBPqO-2019/tree/master/entregas/etapa02#024---convers%C3%A3o): resumos deletados ou modificados depois do evento. Alguns acertos manuais também realizados nesta entrega.
+
+Todas as **modificações são auditáveis**, sendo mais simples rastrear navegando-se pelos [*commits*](https://github.com/ppKrauss/SBPqO-2019/commits/master) indicados em cada um dos relatórios de entrega. 
