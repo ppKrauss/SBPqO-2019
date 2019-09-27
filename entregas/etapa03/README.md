@@ -1,4 +1,4 @@
-## ENTREGA ETAPA 03 - Planilhas de revisão
+## ENTREGA ETAPA 03 - Subsídios para revisão final
 
 O material XML foi consolidado, os ~1400 resumos convertidos e divididos em partes tratáveis pelos revisores:
 
@@ -6,6 +6,8 @@ O material XML foi consolidado, os ~1400 resumos convertidos e divididos em part
 * **Metadados** dos resumos: `REVISAR_METADADOS.csv` contendo autores, e-mail, apoio e afiliação.
 
 O conteúdo estará disponível para revisão *online* em Google-docs, os metadados disponíveis para revisão em planilha offline (ex. Excel).
+
+A *prova tipográfica* (na forma de "PDF do miolo") oferece amostra da diagramação final dos resumos. Está sendo entregue apenas por e-mail.
 
 ## Revisões automáticas 
 Uma revisão parcial do problema dos superscritos/subscritos foi realizada sobre os resumos PN conforme [*commit* `36acfc`](https://github.com/ppKrauss/SBPqO-2019/commit/36acfc40ae97f3b530d070a59b5904e69ea81f94).
@@ -18,7 +20,7 @@ Uma primeira revisão automática (comando "etapa3b" no `proc.php`) foi realizad
 * adoção de "no break hyphen" para não quebrar linha na expressão de intervalos numéricos.
 * sinal de percentual junto. Ex. "entre 32,7 % e 33,5%" junta "32,7%".
 
-Uma segunda revisão automática pode vir a ser realizada após a entrega do pacote completo (com PDF), conforme instruções que vierem a ser fornecidas.
+Uma segunda revisão automática pode vir a ser realizada após a entrega do pacote completo (com PDF), conforme instruções que vierem a ser negociadas após a "revisão por terceiros".
 
 ## Revisão por terceiros
 Material disponíel (para a revisão por terceiros) em:
@@ -28,4 +30,6 @@ Material disponíel (para a revisão por terceiros) em:
 * [Conteúdo parte-3](https://docs.google.com/document/d/1G3d84YX8QM7DQwRSzy2vxjceWWu0SyzHjAhrxc3t5iA/edit?usp=sharing)
 * [Conteúdo parte-4](https://docs.google.com/document/d/1xH-P_6ktc-AxnNiY_jCo8KyZzJECN1OqvAiAY9xLQkQ/edit?usp=sharing)
 
-Atenção: nenhum outro tipo de revisão direta sobre os resumos será aceita, serão acatadas apenas as edições realizadas nos links acima.
+Atenção: **nenhum outro tipo de revisão ou instrução será aceita**, serão acatadas apenas as edições realizadas nos links acima.
+
+Caso durante a revisão sejam notadas demandas por revisões sistemáticas, as mesmas poderão ser negociadas e autimatizadas. A negociação envolve elaboração de instruções precisas e aceitáveis para  o processo de automação e teste.
